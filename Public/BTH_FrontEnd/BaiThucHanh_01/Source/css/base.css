@@ -1,0 +1,145 @@
+*{
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding: 0;
+    font: 14px arial;
+}
+.clearfix{
+    clear: both;
+}
+.wrapper{
+    width: 1120px;
+}
+.full-container{
+    width: 100%;
+}
+.container{
+    width: 940px;
+}
+.col1,.col2{
+    position: relative;
+    float: left;
+}
+.wrapper,.full-container,.container{
+    margin: 0 auto;
+    overflow: auto;
+    position: relative;
+}
+.col1{
+    width: calc(100%/4);
+}
+.col2{
+    width: calc(100%/3);
+}
+.about .col2::before{
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    content: "";
+    background-color: rgba(64,64,64,0.5);
+}
+.logo,.menu{
+    float: left;
+}
+.product{
+    margin-top: 10px;
+}
+.about{
+    margin-top: 10px;
+}
+.img1{
+    width: 100%;
+    height: 185px;
+}
+h1{
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.img2{
+    filter:brightness(70%);
+    width: 100%;
+    height: 300px;
+}
+.about .title{
+    text-transform: uppercase;
+    font-size: 2.5rem;
+    padding: 15px 0 15px 0;
+}
+.banner{
+    height: 420px;
+    background-image: url(../images/banner.png);
+    background-position:center center ;
+    background-size: cover;
+}
+.content1{
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 15px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #000;
+}
+.content2{
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 1.8rem;
+    color: white;
+}
+.logo,.menu{
+    float: left;
+    height: 65px;
+}
+.logo{
+    width: 200px;
+    background-image: url(../images/logo.png);
+    background-position:center;
+    background-repeat: no-repeat;
+}
+.menu ul{
+    text-align: center;
+    margin-top: 25px;
+    padding-left: 200px;
+}
+.menu li{
+    list-style: none;
+    display: inline-table;
+}
+.menu a{
+    margin-left: 20px;
+    color: #646464;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: cover;
+}
+.footer{
+    background-color: yellow;
+    margin: 40px 0 0 0 ;
+}
+.footer ul{
+    margin:  10px 0 10px 0;
+    padding: 20px 5px 20px 0;
+}
+.footer li{
+    list-style: none;
+    line-height: 20px;
+}
+.footer a{
+    color: #000;
+    text-decoration: none;
+    font-weight: bold;
+}
+a:hover{
+    opacity: 0.7;
+}
+.banner:hover{
+    opacity: 0.7;
+}

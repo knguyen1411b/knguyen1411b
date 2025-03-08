@@ -1,0 +1,95 @@
+*{
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding: 0;
+    font:  arial;
+}
+p{
+    color: rgb(162, 158, 158);
+    font-size: 18px;
+}
+.main{
+    width: 1200px;
+    height: 750px;
+    margin: 10px auto 20px auto;
+    position: relative;
+    background-color:#EFF0F2 ;
+}
+.header{
+    padding: 20px 0 0 10px;
+}
+.row-all{
+    position: absolute;
+    top: 200px;
+    margin: 30px 0 0 30px;
+}
+.col1{
+    width: 460px;
+    height: 500px;
+    float: left;
+    overflow: auto;
+}
+.content{
+    margin: 15px 0 15px 0; 
+    height: 100px;
+}
+h1,.ct{
+    margin: auto auto auto 20px;
+}
+h1{
+    font-size: 34px;
+}
+h4{
+    font-size: 18px;
+}
+.ct{
+    margin-top: 40px;
+}
+.col2 p{
+    font-size: 15px;
+    margin: 8px;
+}
+.col2 .content{
+    margin: 0;
+    padding: 10px 10px 10px 10px;
+}
+.row{
+    width: 600px;
+    height: 100px;
+}
+.img-col1{
+    width: 460px;
+    height: 310px;
+    background-color:#789ADE;
+    border-radius: 6px;
+}
+.img-col1 p{
+    font-size: 40px;
+    text-align: center;
+    padding-top: 135px;
+    color: white;
+}
+.col2{
+    margin: 0 0 0 520px;
+    width: 550px;
+    height: 500px;
+}
+.img{
+    border-radius: 6px;
+    float: left;
+    width: 100px;
+    height: 100px;
+    background-color:#D997DE;
+    margin-right: 12px;
+}
+.img h3{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 33px;
+}
+.gachchan{
+    width: 600px;
+    border: 1px dashed red;
+    margin: 10px 0 10px 0;
+}

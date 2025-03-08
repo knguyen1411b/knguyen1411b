@@ -1,0 +1,391 @@
+root {
+    /* bien css
+    --full-container 100%
+    --container 1200px
+    --màu nền mặc định  #011c38   
+    --màu chữ mặc định #011C38
+    --kích cỡ chữ mặt định 1.8rem
+    */
+}
+
+* {    
+    /* tất cả phần tử
+    -boder box
+    đệm  0
+    vùng ngoài 0
+    */
+}
+body {
+    /* body
+    font sử dụng Arial, Helvetica, sans-serif
+    font mặc định 14px
+    màu chữ --var color
+    */
+}
+a {
+    /* quy dinh the a
+    theo mau chữ biến
+    text-decoration none        
+    */
+}
+a:hover {
+    /* khi đưa chuột vào a làm mờ 0.6 */
+}
+.text-bold {
+    /* chữ đậm */
+}
+.text-right {
+    /* chữ phải */
+}
+.text-justify {
+    /* chữ cân đều 2 bên */
+}
+.bg-gray {
+    /* màu nền #c0c0c0 và màu chữ theo biến  */
+}
+.bg-orange {
+    /* màu nền #EA6645 và màu trắng */
+}
+.bg-darkblue {
+    /* màu nền #012951 màu chữ trắng */
+}
+.line-gray-afterafter {
+    /* lớp phủ trước
+    màu nền trắng
+    dưới -10px
+    cao 2px
+    trái 0
+    rộng 80px
+    nội dung ""
+    vị trí absolute
+    lớp thứ 0
+    */
+}
+.line-dark-afterafter {
+    /* lớp phủ trước
+    màu nền #345474
+    dưới -10px
+    cao 2px
+    trái 0
+    rộng 80px
+    nội dung ""
+    vị trí absolute
+    lớp thứ 0
+    */
+}
+
+.full-container {
+    /* độ rộng var -full container */
+}
+.container {
+    /* độ rộng var container 
+    cân giữa */
+}
+
+/** Dropdown menu **/
+.dropdown {
+    /* vị trí relative */
+}
+.dropdown > ul {    
+    /* quy định ul
+    hiển thị none
+    vị trí absolute
+    rộng 350%
+    top 100%
+    màu nền #011c38
+    viền 1px liền màu rgba(255,255,255,0.2)
+    đệm  0 10 0 10
+    lề 0
+    lớp thứ 999
+    */
+}
+.dropdown > ul > li {
+    /* quy định li
+    hiển thị bảng-hàng
+    list style không
+    độ rộng 100%
+    đệm  3 3 3 10 px
+    */
+}
+.dropdownhover > ul {
+    /* hiển thị khối */
+}
+
+/*** Header ***/
+.header {      
+    /* nền   ../images/background.png 
+    nền căn giữa
+    màu trắng
+    */
+}
+.header li {
+    /* hiển thị inline-table */
+}
+.header li + li {
+    /* lề ngoài trái 20px */
+}
+.header-top {
+    /* cao 35
+    dòng-cao 35
+    màu nền rgba(1, 28, 56, 0.9)
+    viền dưới 1px liền màu  rgba(255, 255, 255, 0.2) */
+}
+.header-bottom {
+    /* cao 100
+    dòng-cao 100
+    màu nền rgba(1, 28, 56, 0.7) */
+}
+.header-content {
+    /* hiển thị flex
+    justify-content space-between */
+}
+.header-bottom-logo {
+    /* đệm  10  0 0 0 */
+}
+.header-bottom-menu {
+    /* cỡ chữ 1.2 rem */
+}
+.header-banner {
+    /* cao 320px
+    màu nền  rgba(1, 28, 56, 0.9)     */
+    /* vị trí relavite */
+}
+.header-banner-content {
+    /* hiển thị flex      */
+}
+.header-banner-image {
+    /* vị trí relavite     
+    cao 320px
+    top 30 */
+    /* viền liền 2pz màu rgba(255, 255, 255, 0.2) */
+}
+.header-banner-connect {
+    /* Hiển thị grid
+    grid-template-columns 50% 50%
+    grid-template-rows 50px 30px 30px 60px 30px
+    row-gap 10px
+    column-gap 20px
+    đệm  30px 0 0 20px
+    cao 50%
+    màu trắng */
+}
+.header-banner-title {
+    /* cỡ chữ 1.8 rem
+    grid-column 1/3 */
+}
+.header-banner-col-1-3 {
+    /* grid-column 1/3     */
+}
+.header-banner-connect input, textarea {
+    /*Rộng 100%    
+    màu nền #1B334C
+    cỡ chữ 0.8 rem
+    màu trắng
+    đệm  5 */
+}
+.header-banner-connect input {
+    /* cao  30px */
+}
+.header-banner-connect textarea {
+    /* cao 60px */
+}
+.header-banner-connect button {
+    /* viền 2px solid #EA6645
+    màu #EA6645
+    chữ đậm
+    đệm  10px 15px 10px 15px
+    nền transparent */
+}
+
+/*** Content ***/
+.main-content {
+    /* Hiển thị grid 
+    grid-template-columns 33.33% 33.33% 33.33% 
+    đệm  trên 60px */
+}
+.main-content-title {
+    /* cỡ chữ theo biến
+    font-weight 500
+    vị trí relavite
+    lề dưới 35px */
+}
+.main-content-body {   
+    /* line-cao  18px  
+    chữ nằm đều 2 bên*/
+}
+
+.news {
+    /* viền 1px màu #ccc
+    đệm  0 0 20 0
+    lề 0 30 10 0 */
+}
+.news-time {
+    /* màu #646464 */
+}
+.news-title {
+    /* đệm  10px 0 0 15px
+    cỡ chữ 0.8rem */
+}
+
+.event {
+    /* Hiển thị grid
+    grid-template-columns 70px auto    
+    đệm  trên 35px     */
+}
+.event-time {
+    /* Rộng 70px
+    cao 70px        
+    màu trắng
+    vị trí relavite
+    chữ giữa */
+}
+.event-month {
+    /* chữ in hoa         
+    cỡ chữ 1.1em         */
+}
+.event-day {
+    /* vị trí relavite 
+    cỡ chữ 4.5em
+    font-weight bolder
+    Dưới-25px
+    Phải-10px*/
+}
+.event-content {
+   /* đệm  0 20 0 10 */
+}
+.event-title {
+    /* lề 0 0 10 0 */
+}
+.event-subtitle {
+    /* màu #646464 */
+}
+
+.mission-image > img {
+    /* Rộng 100%     */
+}
+.mission-text{
+   /* Màu #646464
+    cỡ chữ 0.8rem
+    line-cao  23px
+    lề trên 10px */
+}
+
+.category-content {
+    /* Hiển thị grid */
+    /* grid-template-columns 33.33% 33.33% 33.33% 
+    lề trên 30px
+    đệm  30px 50px 30px 50px*/
+}
+.category-content-title {
+    /* Màu #fff
+    cỡ chữ var(--title-font-size)
+    vị trí relavite 
+    lề 0 0 30px 0 */
+}
+.category-content-body ul {
+    /* lề 0 0 0 10px */
+}
+.category-content-body li {
+    /* line-cao  30px */
+}
+
+
+.gallery-content {
+    /* Hiển thị grid */
+    /* grid-template-columns 30% 70% */
+    /* column-gap 40px */
+    /* lề trên 30px */
+    /* cao 400px */
+}
+.gallery-content-title {
+    /* Màu #2c2c2c
+    cỡ chữ var(--title-font-size)
+    vị trí relavite 
+    lề 0 0 10px 0 */
+}
+.gallery-content-body {
+    /* lề 25px 0 0 0 */
+}
+.gallery-person {
+    /* Hiển thị grid 
+    grid-template-columns 25% 75%
+    column-gap 10px
+    Viền 1px solid #ccc
+    đệm 5px
+    lề Dưới 10px */
+}
+.gallery-person img {
+    /* Rộng 100% */
+}
+.gallery-person-name {
+    /* vị trí relavite
+    font-weight bold
+    cỡ chữ 1.1rem
+    lề 0 0 10px 0 */
+}
+.gallery-person-unit {
+     /* Màu #646464
+    cỡ chữ 0.8rem
+    lề 20px 0 0 0 */
+}
+.gallery-person-award {
+    /* Màu #000
+    cỡ chữ 0.8rem
+    lề 10px 0 0 0 */
+}
+.gallery-photos {
+    /* Hiển thị grid
+    grid-template-columns repeat(7, 105px)
+    grid-template-rows 105px 105px
+    gap 10px */
+}
+.gallery-photos img {
+    /*Rộng  100px
+    cao  100px */
+}
+
+.footer {
+    /* cao 380px
+    nền ../images/background.png
+    Hiển thị grid
+    grid-template-rows auto 50px
+    Màu #fff    
+    vị trí relavite */
+}
+.footerbefore {
+    /* vị trí absolute
+    nội dun ""
+    top 0
+    Phải 0
+    Dưới 0
+    trái 0    
+    màu nền  rgba(1, 28, 56, 0.9)
+    lớp 0     */
+}
+.footer a {
+    /* Màu #fff */
+}
+.footer-top {
+    /* Hiển thị grid
+    grid-template-columns 33.33% 33.33% 33.33%
+    đệm 40px 0 40px 0
+    lớp 1 */
+}
+.footer-box-title {
+    /*cỡ chữ var(--title-font-size)
+     vị trí relavite 
+    lề 0 0 20px 0 */
+}
+.footer-box-content {
+    /* line-cao  23px 
+    lề 30px 0 0 0
+    cỡ chữ 0.8rem
+    chữ đều 2 bên
+    */
+}
+.footer-bottom {
+   /* màu nền  rgba(1, 28, 56, 0.9) 
+    line-cao  50px 
+    cỡ chữ 0.8rem
+    lớp 1*/ 
+}
