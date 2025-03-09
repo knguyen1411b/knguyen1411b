@@ -9,7 +9,7 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://knguyen1411b.vercel.app/) ![](https://komarev.com/ghpvc/?username=knguyen1411b&style=for-the-badge)
 
-> 💡*Quote of the Day 03/08/2025:* > **If you can dream it, you can do it.** > _Walt Disney_
+> 💡*Quote of the Day 03/09/2025:* > **Don’t watch the clock; do what it does. Keep going.** > _Sam Levenson_
 
 <br clear="both">
 
