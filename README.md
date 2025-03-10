@@ -9,7 +9,7 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://knguyen1411b.vercel.app/) ![](https://komarev.com/ghpvc/?username=knguyen1411b&style=for-the-badge)
 
-> 💡*Quote of the Day 03/09/2025:* > **Don’t watch the clock; do what it does. Keep going.** > _Sam Levenson_
+> 💡*Quote of the Day 03/10/2025:* > **The biggest risk is not taking any risk.** > _Mark Zuckerberg_
 
 <br clear="both">
 
