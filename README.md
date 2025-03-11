@@ -9,7 +9,7 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://knguyen1411b.vercel.app/) ![](https://komarev.com/ghpvc/?username=knguyen1411b&style=for-the-badge)
 
-> 💡*Quote of the Day 03/10/2025:* > **The biggest risk is not taking any risk.** > _Mark Zuckerberg_
+> 💡*Quote of the Day 03/11/2025:* > **Success is not final, failure is not fatal: it is the courage to continue that counts.** > _Winston Churchill_
 
 <br clear="both">
 
