@@ -9,7 +9,7 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://knguyen1411b.vercel.app/) ![](https://komarev.com/ghpvc/?username=knguyen1411b&style=for-the-badge)
 
-> 💡*Quote of the Day 03/12/2025:* > **The secret of success is to do the common thing uncommonly well.** > _John D. Rockefeller Jr._
+> 💡*Quote of the Day 03/13/2025:* > **The harder I work, the luckier I get.** > _Gary Player_
 
 <br clear="both">
 
