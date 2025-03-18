@@ -9,7 +9,7 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://knguyen1411b.vercel.app/) ![](https://komarev.com/ghpvc/?username=knguyen1411b&style=for-the-badge)
 
-> 💡*Quote of the Day 03/17/2025:* > **Do not wait to strike till the iron is hot; but make it hot by striking.** > _William Butler Yeats_
+> 💡*Quote of the Day 03/18/2025:* > **Keep your face always toward the sunshine—and shadows will fall behind you.** > _Walt Whitman_
 
 <br clear="both">
 
