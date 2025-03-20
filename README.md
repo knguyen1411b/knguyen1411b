@@ -9,7 +9,7 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://knguyen1411b.vercel.app/) ![](https://komarev.com/ghpvc/?username=knguyen1411b&style=for-the-badge)
 
-> 💡*Quote of the Day 03/19/2025:* > **What you do today can improve all your tomorrows.** > _Ralph Marston_
+> 💡*Quote of the Day 03/20/2025:* > **What lies behind us and what lies before us are tiny matters compared to what lies within us.** > _Ralph Waldo Emerson_
 
 <br clear="both">
 
