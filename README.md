@@ -9,7 +9,7 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://knguyen1411b.vercel.app/) ![](https://komarev.com/ghpvc/?username=knguyen1411b&style=for-the-badge)
 
-> 💡*Quote of the Day 03/21/2025:* > **Believe you can and you're halfway there.** > _Theodore Roosevelt_
+> 💡*Quote of the Day 03/22/2025:* > **Life is 10% what happens to us and 90% how we react to it.** > _Charles R. Swindoll_
 
 <br clear="both">
 
