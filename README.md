@@ -9,7 +9,7 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://knguyen1411b.vercel.app/) ![](https://komarev.com/ghpvc/?username=knguyen1411b&style=for-the-badge)
 
-> 💡*Quote of the Day 03/28/2025:* > **Success is not final, failure is not fatal: it is the courage to continue that counts.** > _Winston Churchill_
+> 💡*Quote of the Day 03/29/2025:* > **If you can dream it, you can do it.** > _Walt Disney_
 
 <br clear="both">
 
