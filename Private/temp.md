@@ -9,7 +9,9 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://knguyen1411b.vercel.app/) ![](https://komarev.com/ghpvc/?username=knguyen1411b&style=for-the-badge)
 
-> 💡*Quote of the Day {{DATE}}:* > **{{QUOTE}}** > _{{AUTHOR}}_
+> 💡*Quote of the Day {{DATE}}:*
+> **{{QUOTE}}**
+> _{{AUTHOR}}_
 
 <br clear="both">
 
