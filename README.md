@@ -9,7 +9,9 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://knguyen1411b.vercel.app/) ![](https://komarev.com/ghpvc/?username=knguyen1411b&style=for-the-badge)
 
-> 💡*Quote of the Day 04/01/2025:* > **To succeed in life, you need two things: ignorance and confidence.** > _Mark Twain_
+> 💡*Quote of the Day 04/01/2025:*
+> **The only limit to our realization of tomorrow is our doubts of today.**
+> _Franklin D. Roosevelt_
 
 <br clear="both">
 
