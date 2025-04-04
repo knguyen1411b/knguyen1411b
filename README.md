@@ -9,9 +9,9 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://knguyen1411b.vercel.app/) ![](https://komarev.com/ghpvc/?username=knguyen1411b&style=for-the-badge)
 
-> 💡*Quote of the Day 04/03/2025:*
-> **Success is not the key to happiness. Happiness is the key to success.**
-> _Albert Schweitzer_
+> 💡*Quote of the Day 04/04/2025:*
+> **It always seems impossible until it's done.**
+> _Nelson Mandela_
 
 <br clear="both">
 
