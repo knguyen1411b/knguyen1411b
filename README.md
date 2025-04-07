@@ -9,9 +9,9 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://knguyen1411b.vercel.app/) ![](https://komarev.com/ghpvc/?username=knguyen1411b&style=for-the-badge)
 
-> 💡*Quote of the Day 04/06/2025:*
-> **You have within you right now, everything you need to deal with whatever the world can throw at you.**
-> _Brian Tracy_
+> 💡*Quote of the Day 04/07/2025:*
+> **Act as if what you do makes a difference. It does.**
+> _William James_
 
 <br clear="both">
 
