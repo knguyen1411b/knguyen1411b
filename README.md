@@ -9,9 +9,9 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://knguyen1411b.vercel.app/) ![](https://komarev.com/ghpvc/?username=knguyen1411b&style=for-the-badge)
 
-> 💡*Quote of the Day 04/10/2025:*
-> **You have within you right now, everything you need to deal with whatever the world can throw at you.**
-> _Brian Tracy_
+> 💡*Quote of the Day 04/11/2025:*
+> **The harder I work, the luckier I get.**
+> _Gary Player_
 
 <br clear="both">
 
