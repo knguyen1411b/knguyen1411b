@@ -9,9 +9,9 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://knguyen1411b.vercel.app/) ![](https://komarev.com/ghpvc/?username=knguyen1411b&style=for-the-badge)
 
-> 💡*Quote of the Day 04/14/2025:*
-> **Don’t watch the clock; do what it does. Keep going.**
-> _Sam Levenson_
+> 💡*Quote of the Day 04/15/2025:*
+> **The only way to achieve the impossible is to believe it is possible.**
+> _Charles Kingsleigh_
 
 <br clear="both">
 
