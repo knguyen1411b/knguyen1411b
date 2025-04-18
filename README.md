@@ -9,9 +9,9 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://knguyen1411b.vercel.app/) ![](https://komarev.com/ghpvc/?username=knguyen1411b&style=for-the-badge)
 
-> 💡*Quote of the Day 04/17/2025:*
-> **The best way to predict the future is to invent it.**
-> _Alan Kay_
+> 💡*Quote of the Day 04/18/2025:*
+> **What lies behind us and what lies before us are tiny matters compared to what lies within us.**
+> _Ralph Waldo Emerson_
 
 <br clear="both">
 
