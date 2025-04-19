@@ -9,9 +9,9 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://knguyen1411b.vercel.app/) ![](https://komarev.com/ghpvc/?username=knguyen1411b&style=for-the-badge)
 
-> 💡*Quote of the Day 04/18/2025:*
-> **What lies behind us and what lies before us are tiny matters compared to what lies within us.**
-> _Ralph Waldo Emerson_
+> 💡*Quote of the Day 04/19/2025:*
+> **Act as if what you do makes a difference. It does.**
+> _William James_
 
 <br clear="both">
 
