@@ -9,9 +9,9 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://knguyen1411b.vercel.app/) ![](https://komarev.com/ghpvc/?username=knguyen1411b&style=for-the-badge)
 
-> 💡*Quote of the Day 04/20/2025:*
-> **Believe you can and you're halfway there.**
-> _Theodore Roosevelt_
+> 💡*Quote of the Day 04/21/2025:*
+> **You must be the change you wish to see in the world.**
+> _Mahatma Gandhi_
 
 <br clear="both">
 
