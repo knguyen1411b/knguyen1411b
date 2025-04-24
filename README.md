@@ -9,9 +9,9 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://knguyen1411b.vercel.app/) ![](https://komarev.com/ghpvc/?username=knguyen1411b&style=for-the-badge)
 
-> 💡*Quote of the Day 04/23/2025:*
-> **The best revenge is massive success.**
-> _Frank Sinatra_
+> 💡*Quote of the Day 04/24/2025:*
+> **Keep your face always toward the sunshine—and shadows will fall behind you.**
+> _Walt Whitman_
 
 <br clear="both">
 
