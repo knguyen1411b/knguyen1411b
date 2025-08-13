@@ -2,13 +2,13 @@ process.env["NODE_TLS_REJECT_UNAUTHORIZED"] = 1;
 const fs = require("fs");
 const axios = require("axios");
 
-const BASE_URL = "https://qapi.vercel.app/api/random";
+const BASE_URL = "https://zenquotes.io/api/random";
 
 const getQuote = async () => {
   try {
     const { data } = await axios.get(BASE_URL);
-    const quote = data.quote;
-    const author = data.author === null ? `Anonymous` : data.author;
+    const quote = data[0].q;
+    const author = data[0].a === null ? `Anonymous` : data[0].a;
 
     console.log("New quote", `"${quote}"`);
     console.log("Author", `"${author}"`);
@@ -19,7 +19,10 @@ const getQuote = async () => {
     };
   } catch (err) {
     console.error(err.message);
-    return {};
+    return {
+      quote: "none",
+      author: "none",
+    };
   }
 };
 
