@@ -9,9 +9,9 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://knguyen1411b.vercel.app/) ![](https://komarev.com/ghpvc/?username=knguyen1411b&style=for-the-badge)
 
-> 💡*Quote of the Day 08/13/2025:*
-> **Keep your face always toward the sunshine -  shadows will fall behind you.**
-> _Walt Whitman_
+> 💡*Quote of the Day 08/14/2025:*
+> **Thinking is the hardest work there is. That is why so few people engage in it.**
+> _Robert Kiyosaki_
 
 <br clear="both">
 
