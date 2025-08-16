@@ -9,9 +9,9 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://knguyen1411b.vercel.app/) ![](https://komarev.com/ghpvc/?username=knguyen1411b&style=for-the-badge)
 
-> 💡*Quote of the Day 08/15/2025:*
-> **We live only now. Everything else is either passed or is unknown.**
-> _Marcus Aurelius_
+> 💡*Quote of the Day 08/16/2025:*
+> **We must learn to live together as brothers or perish together as fools.**
+> _Martin Luther King, Jr._
 
 <br clear="both">
 
