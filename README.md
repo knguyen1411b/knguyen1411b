@@ -9,9 +9,9 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://knguyen1411b.vercel.app/) ![](https://komarev.com/ghpvc/?username=knguyen1411b&style=for-the-badge)
 
-> 💡*Quote of the Day 08/16/2025:*
-> **We must learn to live together as brothers or perish together as fools.**
-> _Martin Luther King, Jr._
+> 💡*Quote of the Day 08/17/2025:*
+> **If we know how to adapt, we end up being superior.**
+> _Ming-Dao Deng_
 
 <br clear="both">
 
