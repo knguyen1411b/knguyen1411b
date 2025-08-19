@@ -9,9 +9,9 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://knguyen1411b.vercel.app/) ![](https://komarev.com/ghpvc/?username=knguyen1411b&style=for-the-badge)
 
-> 💡*Quote of the Day 08/18/2025:*
-> **What the eye doesn't see and the mind doesn't know, doesn't exist.**
-> _D. H. Lawrence_
+> 💡*Quote of the Day 08/19/2025:*
+> **Longevity is a fleeting moment that lasts forever.**
+> _Vidal Sassoon_
 
 <br clear="both">
 
