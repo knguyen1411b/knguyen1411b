@@ -9,9 +9,9 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://knguyen1411b.vercel.app/) ![](https://komarev.com/ghpvc/?username=knguyen1411b&style=for-the-badge)
 
-> 💡*Quote of the Day 08/19/2025:*
-> **Longevity is a fleeting moment that lasts forever.**
-> _Vidal Sassoon_
+> 💡*Quote of the Day 08/20/2025:*
+> **Some people find fault like there is a reward for it.  **
+> _Zig Ziglar_
 
 <br clear="both">
 
