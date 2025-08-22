@@ -9,9 +9,9 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://knguyen1411b.vercel.app/) ![](https://komarev.com/ghpvc/?username=knguyen1411b&style=for-the-badge)
 
-> 💡*Quote of the Day 08/21/2025:*
-> **When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head.**
-> _Stephen King_
+> 💡*Quote of the Day 08/22/2025:*
+> **The best way out is always through.**
+> _Robert Frost_
 
 <br clear="both">
 
