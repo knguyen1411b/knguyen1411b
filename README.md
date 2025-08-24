@@ -9,9 +9,9 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://knguyen1411b.vercel.app/) ![](https://komarev.com/ghpvc/?username=knguyen1411b&style=for-the-badge)
 
-> 💡*Quote of the Day 08/23/2025:*
-> **No amount of regretting can change the past, and no amount of worrying can change the future.**
-> _Roy T. Bennett_
+> 💡*Quote of the Day 08/24/2025:*
+> **Empty yourself of everything - let the mind become still.**
+> _Lao Tzu_
 
 <br clear="both">
 
