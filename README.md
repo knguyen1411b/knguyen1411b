@@ -9,9 +9,9 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://knguyen1411b.vercel.app/) ![](https://komarev.com/ghpvc/?username=knguyen1411b&style=for-the-badge)
 
-> 💡*Quote of the Day 08/24/2025:*
-> **Empty yourself of everything - let the mind become still.**
-> _Lao Tzu_
+> 💡*Quote of the Day 08/25/2025:*
+> **Your worth consists in what you are and not in what you have.**
+> _Thomas Edison_
 
 <br clear="both">
 
