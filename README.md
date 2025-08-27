@@ -9,9 +9,9 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://knguyen1411b.vercel.app/) ![](https://komarev.com/ghpvc/?username=knguyen1411b&style=for-the-badge)
 
-> 💡*Quote of the Day 08/26/2025:*
-> **Most people get ahead during the time that others waste.**
-> _Henry Ford_
+> 💡*Quote of the Day 08/27/2025:*
+> **The only reason to be alive is to enjoy it.**
+> _Rita Mae Brown_
 
 <br clear="both">
 
