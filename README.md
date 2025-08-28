@@ -9,9 +9,9 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://knguyen1411b.vercel.app/) ![](https://komarev.com/ghpvc/?username=knguyen1411b&style=for-the-badge)
 
-> 💡*Quote of the Day 08/27/2025:*
-> **The only reason to be alive is to enjoy it.**
-> _Rita Mae Brown_
+> 💡*Quote of the Day 08/28/2025:*
+> **It is useless to meet revenge with revenge; it will heal nothing.**
+> _J.R.R. Tolkien_
 
 <br clear="both">
 
