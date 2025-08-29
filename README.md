@@ -9,9 +9,9 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://knguyen1411b.vercel.app/) ![](https://komarev.com/ghpvc/?username=knguyen1411b&style=for-the-badge)
 
-> 💡*Quote of the Day 08/28/2025:*
-> **It is useless to meet revenge with revenge; it will heal nothing.**
-> _J.R.R. Tolkien_
+> 💡*Quote of the Day 08/29/2025:*
+> **We live only now. Everything else is either passed or is unknown.**
+> _Marcus Aurelius_
 
 <br clear="both">
 
