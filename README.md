@@ -9,9 +9,9 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://knguyen1411b.vercel.app/) ![](https://komarev.com/ghpvc/?username=knguyen1411b&style=for-the-badge)
 
-> 💡*Quote of the Day 08/29/2025:*
-> **We live only now. Everything else is either passed or is unknown.**
-> _Marcus Aurelius_
+> 💡*Quote of the Day 08/30/2025:*
+> **The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it.**
+> _Carl Jung_
 
 <br clear="both">
 
