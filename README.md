@@ -9,9 +9,9 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://knguyen1411b.vercel.app/) ![](https://komarev.com/ghpvc/?username=knguyen1411b&style=for-the-badge)
 
-> 💡*Quote of the Day 09/01/2025:*
-> **We are always complaining that our days are few, and acting as though there would be no end of them.  **
-> _Seneca_
+> 💡*Quote of the Day 09/02/2025:*
+> **Every hour of every day is an unspeakably perfect miracle.**
+> _Walt Whitman_
 
 <br clear="both">
 
