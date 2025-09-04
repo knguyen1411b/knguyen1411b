@@ -9,9 +9,9 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://knguyen1411b.vercel.app/) ![](https://komarev.com/ghpvc/?username=knguyen1411b&style=for-the-badge)
 
-> 💡*Quote of the Day 09/03/2025:*
-> **Choose to be optimistic, it feels better.**
-> _Dalai Lama_
+> 💡*Quote of the Day 09/04/2025:*
+> **Forget safety. Live where you fear to live.**
+> _Rumi_
 
 <br clear="both">
 
