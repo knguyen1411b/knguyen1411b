@@ -9,9 +9,9 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://knguyen1411b.vercel.app/) ![](https://komarev.com/ghpvc/?username=knguyen1411b&style=for-the-badge)
 
-> 💡*Quote of the Day 09/06/2025:*
-> **Avoiding failure is to avoid progress.**
-> _Unknown_
+> 💡*Quote of the Day 09/07/2025:*
+> **All has not been said and never will be.**
+> _Samuel Beckett_
 
 <br clear="both">
 
