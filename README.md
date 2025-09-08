@@ -9,9 +9,9 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://knguyen1411b.vercel.app/) ![](https://komarev.com/ghpvc/?username=knguyen1411b&style=for-the-badge)
 
-> 💡*Quote of the Day 09/07/2025:*
-> **All has not been said and never will be.**
-> _Samuel Beckett_
+> 💡*Quote of the Day 09/08/2025:*
+> **If you are not living each day with excitement, energy, and passion, then you are not living true to your life purpose.**
+> _Celestine Chua_
 
 <br clear="both">
 
