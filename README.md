@@ -9,10 +9,20 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://knguyen1411b.vercel.app/) ![](https://komarev.com/ghpvc/?username=knguyen1411b&style=for-the-badge)
 
-> 💡*Quote of the Day 09/08/2025:*
-> **If you are not living each day with excitement, energy, and passion, then you are not living true to your life purpose.**
-> _Celestine Chua_
+> 💡*Quote of the Day 09/08/2025:* > **If you are not living each day with excitement, energy, and passion, then you are not living true to your life purpose.** > _Celestine Chua_
 
 <br clear="both">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KNguyen1411b&hide=html,scss,stylus,blade,jupyter%20notebook,vim%20script,css,shell3&theme=tokyonight&show_icons=true&layout=compact" alt="Top Languages" height="150" /> <img src="https://github-readme-stats.vercel.app/api?username=knguyen1411b&show_icons=true&hide=issues,contribs&count_private=true&theme=tokyonight&show_icons=true" alt="Top Languages" height="150"/>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/dark-no-ghost.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="examplimages/light-no-ghost.svg"
+  />
+  <img alt="Breakout Game" src="images/light-no-ghost.svg" />
+</picture>
