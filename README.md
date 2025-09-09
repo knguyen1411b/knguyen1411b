@@ -7,7 +7,7 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://knguyen1411b.vercel.app/) ![](https://komarev.com/ghpvc/?username=knguyen1411b&style=for-the-badge)
 
-> 💡*Quote of the Day 09/08/2025:* > **Superstars think like superstars long before the fans or the press anoint them.** > _John Eliot_
+> 💡*Quote of the Day 09/09/2025:* > **Forget safety. Live where you fear to live.** > _Rumi_
 
 <br clear="both">
 
