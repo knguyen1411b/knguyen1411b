@@ -7,7 +7,7 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://knguyen1411b.vercel.app/) ![](https://komarev.com/ghpvc/?username=knguyen1411b&style=for-the-badge)
 
-> 💡*Quote of the Day 09/09/2025:* > **Forget safety. Live where you fear to live.** > _Rumi_
+> 💡*Quote of the Day 09/10/2025:* > **Knowledge isn't power until it is applied.** > _Dale Carnegie_
 
 <br clear="both">
 
