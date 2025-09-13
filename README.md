@@ -7,7 +7,7 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://knguyen1411b.vercel.app/) ![](https://komarev.com/ghpvc/?username=knguyen1411b&style=for-the-badge)
 
-> 💡*Quote of the Day 09/12/2025:* > **Don't let them drag you down by rumors. Just go with what you believe in.** > _Michael Jordan_
+> 💡*Quote of the Day 09/13/2025:* > **Knowing others is wisdom, knowing yourself is enlightenment.** > _Lao Tzu_
 
 <br clear="both">
 
