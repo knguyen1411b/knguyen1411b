@@ -7,7 +7,7 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://knguyen1411b.vercel.app/) ![](https://komarev.com/ghpvc/?username=knguyen1411b&style=for-the-badge)
 
-> 💡*Quote of the Day 09/14/2025:* > **The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution.** > _Albus Dumbledore_
+> 💡*Quote of the Day 09/15/2025:* > **The act of taking the first step is what separates the winners from the losers.** > _Brian Tracy_
 
 <br clear="both">
 
