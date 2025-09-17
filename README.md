@@ -7,7 +7,7 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://knguyen1411b.vercel.app/) ![](https://komarev.com/ghpvc/?username=knguyen1411b&style=for-the-badge)
 
-> 💡*Quote of the Day 09/16/2025:* > **The purpose of life is to contribute in some way to making things better.** > _Robert F. Kennedy_
+> 💡*Quote of the Day 09/17/2025:* > **Stop wasting time looking at someone else's reality while doing nothing about yours.** > _Steve Harvey_
 
 <br clear="both">
 
