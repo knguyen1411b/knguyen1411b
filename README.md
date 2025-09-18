@@ -7,7 +7,7 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://knguyen1411b.vercel.app/) ![](https://komarev.com/ghpvc/?username=knguyen1411b&style=for-the-badge)
 
-> 💡*Quote of the Day 09/17/2025:* > **Stop wasting time looking at someone else's reality while doing nothing about yours.** > _Steve Harvey_
+> 💡*Quote of the Day 09/18/2025:* > **Work is always an antidote to depression.** > _Eleanor Roosevelt_
 
 <br clear="both">
 
