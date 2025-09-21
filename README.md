@@ -7,7 +7,7 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://knguyen1411b.vercel.app/) ![](https://komarev.com/ghpvc/?username=knguyen1411b&style=for-the-badge)
 
-> 💡*Quote of the Day 09/20/2025:* > **Peace of mind is that mental condition in which you have accepted the worst.** > _Lin Yutang_
+> 💡*Quote of the Day 09/21/2025:* > **Winners don't Quit. That's why they Win.** > _Unknown_
 
 <br clear="both">
 
