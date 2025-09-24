@@ -7,7 +7,7 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://knguyen1411b.vercel.app/) ![](https://komarev.com/ghpvc/?username=knguyen1411b&style=for-the-badge)
 
-> 💡*Quote of the Day 09/23/2025:* > **The most important thing in life is to stop saying 'I wish' and start saying 'I will'. Consider nothing impossible, then treat possibilities as probabilities.** > _Charles Dickens_
+> 💡*Quote of the Day 09/24/2025:* > **You can only lose something that you have, but you cannot lose something that you are.** > _Eckhart Tolle_
 
 <br clear="both">
 
