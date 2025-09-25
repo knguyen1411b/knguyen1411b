@@ -7,7 +7,7 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://knguyen1411b.vercel.app/) ![](https://komarev.com/ghpvc/?username=knguyen1411b&style=for-the-badge)
 
-> 💡*Quote of the Day 09/24/2025:* > **You can only lose something that you have, but you cannot lose something that you are.** > _Eckhart Tolle_
+> 💡*Quote of the Day 09/25/2025:* > **A man with outward courage dares to die: a man with inner courage dares to live.** > _Lao Tzu_
 
 <br clear="both">
 
