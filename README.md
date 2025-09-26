@@ -7,7 +7,7 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://knguyen1411b.vercel.app/) ![](https://komarev.com/ghpvc/?username=knguyen1411b&style=for-the-badge)
 
-> 💡*Quote of the Day 09/25/2025:* > **A man with outward courage dares to die: a man with inner courage dares to live.** > _Lao Tzu_
+> 💡*Quote of the Day 09/26/2025:* > **It isn't what you do, but how you do it.** > _John Wooden_
 
 <br clear="both">
 
