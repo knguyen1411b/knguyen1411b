@@ -7,7 +7,7 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://knguyen1411b.vercel.app/) ![](https://komarev.com/ghpvc/?username=knguyen1411b&style=for-the-badge)
 
-> 💡*Quote of the Day 09/27/2025:* > **The fact of the matter is that there will be nothing learned from any challenge in which we don't try our hardest.** > _Josh Waitzkin_
+> 💡*Quote of the Day 09/28/2025:* > **Not everything that weighs you down is yours to carry.** > _Unknown_
 
 <br clear="both">
 
