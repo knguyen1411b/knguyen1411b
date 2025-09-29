@@ -7,7 +7,7 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://knguyen1411b.vercel.app/) ![](https://komarev.com/ghpvc/?username=knguyen1411b&style=for-the-badge)
 
-> 💡*Quote of the Day 09/28/2025:* > **Not everything that weighs you down is yours to carry.** > _Unknown_
+> 💡*Quote of the Day 09/29/2025:* > **Thinking is the hardest work there is, which is probably the reason why so few engage in it.** > _Henry Ford_
 
 <br clear="both">
 
