@@ -7,7 +7,7 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://knguyen1411b.vercel.app/) ![](https://komarev.com/ghpvc/?username=knguyen1411b&style=for-the-badge)
 
-> 💡*Quote of the Day 09/29/2025:* > **Thinking is the hardest work there is, which is probably the reason why so few engage in it.** > _Henry Ford_
+> 💡*Quote of the Day 09/30/2025:* > **Fools resist. The wise embrace.** > _Maxime Lagace_
 
 <br clear="both">
 
