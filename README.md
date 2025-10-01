@@ -7,7 +7,7 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://knguyen1411b.vercel.app/) ![](https://komarev.com/ghpvc/?username=knguyen1411b&style=for-the-badge)
 
-> 💡*Quote of the Day 09/30/2025:* > **Fools resist. The wise embrace.** > _Maxime Lagace_
+> 💡*Quote of the Day 10/01/2025:* > **Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do.** > _Nelson Mandela_
 
 <br clear="both">
 
