@@ -7,7 +7,7 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://knguyen1411b.vercel.app/) ![](https://komarev.com/ghpvc/?username=knguyen1411b&style=for-the-badge)
 
-> 💡*Quote of the Day 10/02/2025:* > **If you see a get rich quick scheme, that's someone else trying to get rich off of you.** > _Naval Ravikant_
+> 💡*Quote of the Day 10/03/2025:* > **Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for.** > _Gurbaksh Chahal_
 
 <br clear="both">
 
