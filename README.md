@@ -3,7 +3,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
 
-<h4 align="center">🚀 Fullstack Developer | Passion for Code & Creativity</h4>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Fullstack+Developer;Passion+for+Code+%26+Creativity"
+    alt="🚀 Fullstack Developer | Passion for Code & Creativity"
+  />
+</p>
 
 <p align="center">
   <a href="https://knguyen1411b.vercel.app/">
@@ -19,10 +24,10 @@
 </p>
 
 <p align="center">
-  <em>"It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult.  "</em>  
+  <em>"The person who never made a mistake never tried anything new."</em>  
 </p>
 <p align="right">
-  - Seneca
+  - Albert Einstein
 </p>
 
 ---
