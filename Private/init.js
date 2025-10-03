@@ -38,7 +38,7 @@ const generate = async () => {
   const { quote, author } = await getQuote();
   const today = getDate();
 
-  let readmeContent = fs.readFileSync("Private/temp.md", "utf-8");
+  let readmeContent = fs.readFileSync("Private/Temp/README.md", "utf-8");
   readmeContent = readmeContent.replace(/{{DATE}}/g, today);
   readmeContent = readmeContent.replace(/{{QUOTE}}/g, quote);
   readmeContent = readmeContent.replace(/{{AUTHOR}}/g, author);

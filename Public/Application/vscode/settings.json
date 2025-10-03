@@ -1,0 +1,35 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Dracula Theme",
+    "glassit.alpha": 250,
+    "vscode_custom_css.imports": [
+        "file:///C:/Users/knguyen/.vsc/custom.css",
+        "file:///C:/Users/knguyen/.vsc/background.css",
+        "file:///C:/Users/knguyen/.vsc/custom.js",
+        "file:///c:/Users/knguyen/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.7/dist/updateHandler.js"
+    ],
+    "workbench.sideBar.location": "right",
+    "animations.CursorAnimation": true,
+    "explorer.confirmDelete": false,
+    "editor.formatOnSave": true,
+    "editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "terminal.integrated.fontFamily": "MesloLGM Nerd Font",
+    "extensions.ignoreRecommendations": true,
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "update.mode": "none",
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.startupEditor": "none",
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmPasteNative": false,
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+}
