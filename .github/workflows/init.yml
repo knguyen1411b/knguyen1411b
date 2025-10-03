@@ -31,8 +31,8 @@ jobs:
 
       - name: Update README.md
         run: |
-          git config --global user.email "nguyendinhkhanhnguyen1@gmail.com"
-          git config --global user.name "KNguyen-1411"
+          git config --global user.email "knguyen1411b@gmail.com"
+          git config --global user.name "knguyen1411b"
           git add README.md 
-          git commit -m "[UPDATE] Updated README.md" || echo "No changes to commit"
+          git commit -m "docs: add instructions in README.md" || echo "No changes to commit"
           git push origin master
