@@ -24,10 +24,10 @@
 </p>
 
 <p align="center">
-  <em>"The person who never made a mistake never tried anything new."</em>  
+  <em>"One of the really tough things is figuring out what questions to ask. Once you figure out the question, then the answer is relatively easy."</em>  
 </p>
 <p align="right">
-  - Albert Einstein
+  - Elon Musk
 </p>
 
 ---
