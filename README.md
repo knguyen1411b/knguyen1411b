@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-10/03/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-10/04/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"One of the really tough things is figuring out what questions to ask. Once you figure out the question, then the answer is relatively easy."</em>  
+  <em>"The whole of life, from the moment you are born to the moment you die, is a process of learning."</em>  
 </p>
 <p align="right">
-  - Elon Musk
+  - Jiddu Krishnamurti
 </p>
 
 ---
