@@ -32,7 +32,7 @@
 - [SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/ssms/install/install)
 - [SQL Server Downloads](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 - [Office Tool Plus](https://www.officetool.plus/introduction/download.html)
-- [Microsoft Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
+- [Microsoft Activation Scripts](https://massgrave.dev/)
 
 ---
 
