@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-10/07/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-10/08/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"It isn't that they can't see the solution. It is that they can't see the problem."</em>  
+  <em>"Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it."</em>  
 </p>
 <p align="right">
-  - Gilbert Chesterton
+  - James Matthew Barrie
 </p>
 
 ---
