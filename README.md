@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-10/08/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-10/09/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it."</em>  
+  <em>"Your conscience is the measure of the honesty of your selfishness. Listen to it carefully."</em>  
 </p>
 <p align="right">
-  - James Matthew Barrie
+  - Richard Bach
 </p>
 
 ---
