@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-10/09/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-10/10/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Your conscience is the measure of the honesty of your selfishness. Listen to it carefully."</em>  
+  <em>"Change yourself - you are in control."</em>  
 </p>
 <p align="right">
-  - Richard Bach
+  - Mahatma Gandhi
 </p>
 
 ---
