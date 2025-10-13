@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-10/12/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-10/13/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"The dream is free, but the hustle is sold separately."</em>  
+  <em>"Forever is composed of now's."</em>  
 </p>
 <p align="right">
-  - Steve Harvey
+  - Emily Dickinson
 </p>
 
 ---
