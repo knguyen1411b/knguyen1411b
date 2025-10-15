@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-10/14/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-10/15/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Don't wait for extraordinary opportunities. Seize common occasions and make them great."</em>  
+  <em>"A moving door hinge never corrodes. Flowing water never grows stagnant."</em>  
 </p>
 <p align="right">
-  - Orison Swett Marden
+  - Ming-Dao Deng
 </p>
 
 ---
