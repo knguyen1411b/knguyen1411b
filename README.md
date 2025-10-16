@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-10/15/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-10/16/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"A moving door hinge never corrodes. Flowing water never grows stagnant."</em>  
+  <em>"Throughout this life, you can never be certain of living long enough to take another breath."</em>  
 </p>
 <p align="right">
-  - Ming-Dao Deng
+  - Zen Proverb
 </p>
 
 ---
