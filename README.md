@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-10/16/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-10/17/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Throughout this life, you can never be certain of living long enough to take another breath."</em>  
+  <em>"Reality is the leading cause of stress among those in touch with it."</em>  
 </p>
 <p align="right">
-  - Zen Proverb
+  - Lily Tomlin
 </p>
 
 ---
