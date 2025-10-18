@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-10/17/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-10/18/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Reality is the leading cause of stress among those in touch with it."</em>  
+  <em>"What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from."</em>  
 </p>
 <p align="right">
-  - Lily Tomlin
+  - T.S. Eliot
 </p>
 
 ---
