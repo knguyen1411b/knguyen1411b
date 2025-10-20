@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-10/19/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-10/20/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Forget mistakes. Forget failure. Forget everything except what you are going to do now and do it. Today is your lucky day!"</em>  
+  <em>"It's your outlook on life that counts."</em>  
 </p>
 <p align="right">
-  - Og Mandino
+  - Betty White
 </p>
 
 ---
