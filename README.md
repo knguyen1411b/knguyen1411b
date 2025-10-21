@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-10/20/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-10/21/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"It's your outlook on life that counts."</em>  
+  <em>"What's the point in being smart enough to read, if everything you read makes you dumb?"</em>  
 </p>
 <p align="right">
-  - Betty White
+  - C. Sean McGee
 </p>
 
 ---
