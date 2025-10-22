@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-10/21/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-10/22/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"What's the point in being smart enough to read, if everything you read makes you dumb?"</em>  
+  <em>"Love is the energy of life."</em>  
 </p>
 <p align="right">
-  - C. Sean McGee
+  - Robert Browning
 </p>
 
 ---
