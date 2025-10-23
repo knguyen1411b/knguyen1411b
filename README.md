@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-10/22/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-10/23/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Love is the energy of life."</em>  
+  <em>"You cannot have a positive life and a negative mind."</em>  
 </p>
 <p align="right">
-  - Robert Browning
+  - Joyce Meyer
 </p>
 
 ---
