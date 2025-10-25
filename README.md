@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-10/24/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-10/25/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Doubt is an uncomfortable condition, but certainty is a ridiculous one."</em>  
+  <em>"Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound."</em>  
 </p>
 <p align="right">
-  - Voltaire
+  - James Allen
 </p>
 
 ---
