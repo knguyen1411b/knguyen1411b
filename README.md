@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-10/28/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-10/29/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Life is much more successfully looked at from a single window."</em>  
+  <em>"What do we live for, if it is not to make life less difficult for each other?"</em>  
 </p>
 <p align="right">
-  - F. Scott Fitzgerald
+  - George Eliot
 </p>
 
 ---
