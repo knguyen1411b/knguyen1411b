@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-10/30/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-10/31/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Success is within the reach of just about everyone."</em>  
+  <em>"What is a friend? A single soul dwelling in two bodies."</em>  
 </p>
 <p align="right">
-  - Lolly Daskal
+  - Aristotle
 </p>
 
 ---
