@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-10/31/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-11/01/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"What is a friend? A single soul dwelling in two bodies."</em>  
+  <em>"Don't stumble over something that's behind you."</em>  
 </p>
 <p align="right">
-  - Aristotle
+  - Steve Harvey
 </p>
 
 ---
