@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-11/02/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-11/03/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Do not regret the past. Look to the future."</em>  
+  <em>"We will act consistently with our view of who we truly are, whether that view is accurate or not."</em>  
 </p>
 <p align="right">
-  - Soyen Shaku
+  - Tony Robbins
 </p>
 
 ---
