@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-11/03/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-11/04/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"We will act consistently with our view of who we truly are, whether that view is accurate or not."</em>  
+  <em>"Time flies whether you are having fun or not."</em>  
 </p>
 <p align="right">
-  - Tony Robbins
+  - Mary Engelbreit
 </p>
 
 ---
