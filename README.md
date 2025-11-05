@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-11/04/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-11/05/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Time flies whether you are having fun or not."</em>  
+  <em>"Youth has no age."</em>  
 </p>
 <p align="right">
-  - Mary Engelbreit
+  - Pablo Picasso
 </p>
 
 ---
