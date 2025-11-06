@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-11/05/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-11/06/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Youth has no age."</em>  
+  <em>"Disobedience is the true foundation of liberty. The obedient must be slaves."</em>  
 </p>
 <p align="right">
-  - Pablo Picasso
+  - Henry David Thoreau
 </p>
 
 ---
