@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-11/06/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-11/07/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Disobedience is the true foundation of liberty. The obedient must be slaves."</em>  
+  <em>"Everybody's life is either rewarding or an example."</em>  
 </p>
 <p align="right">
-  - Henry David Thoreau
+  - Tony Robbins
 </p>
 
 ---
