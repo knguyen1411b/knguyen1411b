@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-11/07/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-11/08/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Everybody's life is either rewarding or an example."</em>  
+  <em>"In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better."</em>  
 </p>
 <p align="right">
-  - Tony Robbins
+  - Spencer Johnson
 </p>
 
 ---
