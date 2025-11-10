@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-11/09/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-11/10/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"This is the real secret of life - to be completely engaged with what you are doing in the here and now. And instead of calling it work, realize it is play."</em>  
+  <em>"Tradition is the illusion of permanence. "</em>  
 </p>
 <p align="right">
-  - Alan Watts
+  - Woody Allen
 </p>
 
 ---
