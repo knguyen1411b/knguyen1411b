@@ -24,16 +24,16 @@
 </p>
 
 <p align="center">
-  <em>"Tradition is the illusion of permanence. "</em>  
+  <em>"The older you get, the better you get. Unless you're a banana."</em>  
 </p>
 <p align="right">
-  - Woody Allen
+  - Betty White
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KNguyen1411b&hide=html,scss,stylus,blade,jupyter%20notebook,vim%20script,css,shell3&theme=tokyonight&show_icons=true&layout=compact" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KNguyen1411b&hide=html,scss,stylus,blade,jupyter%20notebook,vim%20script,css,Batchfile,shell3&theme=tokyonight&show_icons=true&layout=compact" alt="Top Languages" height="150" />
   <img src="https://github-readme-stats.vercel.app/api?username=knguyen1411b&show_icons=true&hide=issues,contribs&count_private=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
 </p>
 
