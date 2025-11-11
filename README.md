@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-11/10/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-11/11/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"The older you get, the better you get. Unless you're a banana."</em>  
+  <em>"We may not be responsible for the world that created our minds, but we can take responsibility for the mind with which we create our world."</em>  
 </p>
 <p align="right">
-  - Betty White
+  - Gabor Mate
 </p>
 
 ---
