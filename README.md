@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-11/12/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-11/13/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver."</em>  
+  <em>"Your heart is full of fertile seeds, waiting to sprout."</em>  
 </p>
 <p align="right">
-  - Ayn Rand
+  - Morihei Ueshiba
 </p>
 
 ---
