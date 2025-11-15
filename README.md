@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-11/14/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-11/15/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Turn the pain into power."</em>  
+  <em>"Truth is such a rare thing, it is delighted to tell it."</em>  
 </p>
 <p align="right">
-  - Unknown
+  - Emily Dickinson
 </p>
 
 ---
