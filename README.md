@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-11/15/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-11/16/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Truth is such a rare thing, it is delighted to tell it."</em>  
+  <em>"Your best life will not be found in comfort. It will be found in fighting for what you believe in."</em>  
 </p>
 <p align="right">
-  - Emily Dickinson
+  - Maxime Lagace
 </p>
 
 ---
