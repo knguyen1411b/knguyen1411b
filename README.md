@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-11/16/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-11/17/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Your best life will not be found in comfort. It will be found in fighting for what you believe in."</em>  
+  <em>"It is what we make out of what we have, not what we are given, that separates one person from another."</em>  
 </p>
 <p align="right">
-  - Maxime Lagace
+  - Nelson Mandela
 </p>
 
 ---
