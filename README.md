@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-11/17/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-11/18/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"It is what we make out of what we have, not what we are given, that separates one person from another."</em>  
+  <em>"You are not the drop in the ocean, but the ocean in the drop."</em>  
 </p>
 <p align="right">
-  - Nelson Mandela
+  - Deepak Chopra
 </p>
 
 ---
