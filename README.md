@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-11/18/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-11/19/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"You are not the drop in the ocean, but the ocean in the drop."</em>  
+  <em>"Arise, slay thy enemies, enjoy a prosperous kingdom."</em>  
 </p>
 <p align="right">
-  - Deepak Chopra
+  - Bhagavad Gita
 </p>
 
 ---
