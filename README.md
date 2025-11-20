@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-11/19/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-11/20/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Arise, slay thy enemies, enjoy a prosperous kingdom."</em>  
+  <em>"When something comes from within, when it is a part of you, you have no choice but to live it, to express it."</em>  
 </p>
 <p align="right">
-  - Bhagavad Gita
+  - Kamal Ravikant
 </p>
 
 ---
