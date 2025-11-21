@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-11/20/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-11/21/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"When something comes from within, when it is a part of you, you have no choice but to live it, to express it."</em>  
+  <em>"You have a brain and mind of your own. Use it, and reach your own decisions."</em>  
 </p>
 <p align="right">
-  - Kamal Ravikant
+  - Napoleon Hill
 </p>
 
 ---
