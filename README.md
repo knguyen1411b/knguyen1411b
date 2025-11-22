@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-11/21/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-11/22/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"You have a brain and mind of your own. Use it, and reach your own decisions."</em>  
+  <em>"Time and health are two precious assets that we don't recognize and appreciate until they have been depleted. "</em>  
 </p>
 <p align="right">
-  - Napoleon Hill
+  - Denis Waitley
 </p>
 
 ---
