@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-11/22/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-11/23/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Time and health are two precious assets that we don't recognize and appreciate until they have been depleted. "</em>  
+  <em>"Every day passes whether you participate or not."</em>  
 </p>
 <p align="right">
-  - Denis Waitley
+  - Ming-Dao Deng
 </p>
 
 ---
