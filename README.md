@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-11/24/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-11/25/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Everything starts with a dream. A particle of our imagination that teases us of what the future could be like, as long as we fight for it."</em>  
+  <em>"Appear weak when you are strong, and strong when you are weak."</em>  
 </p>
 <p align="right">
-  - Gurbaksh Chahal
+  - Sun Tzu
 </p>
 
 ---
