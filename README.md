@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-11/26/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-11/27/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain."</em>  
+  <em>"I can live without money, but I cannot live without love."</em>  
 </p>
 <p align="right">
-  - Josh Waitzkin
+  - Judy Garland
 </p>
 
 ---
