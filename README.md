@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-11/29/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-11/30/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"We are like islands in the sea, separate on the surface but connected in the deep."</em>  
+  <em>"It is easier to fight for one's principles than to live up to them. "</em>  
 </p>
 <p align="right">
-  - William James
+  - Alfred Adler
 </p>
 
 ---
