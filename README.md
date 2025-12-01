@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-11/30/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/01/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"It is easier to fight for one's principles than to live up to them. "</em>  
+  <em>"Your mind is infinite, it's your doubts that are limiting."</em>  
 </p>
 <p align="right">
-  - Alfred Adler
+  - Robert Kiyosaki
 </p>
 
 ---
