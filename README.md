@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/01/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/02/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Your mind is infinite, it's your doubts that are limiting."</em>  
+  <em>"If you've made a mistake, it's better just to laugh at it."</em>  
 </p>
 <p align="right">
-  - Robert Kiyosaki
+  - Zen Proverb
 </p>
 
 ---
