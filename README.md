@@ -20,11 +20,11 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/03/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/04/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"It is your attitude, not your aptitude, that determines your altitude."</em>  
+  <em>"Rich people have small TVs and big libraries, and poor people have small libraries and big TVs."</em>  
 </p>
 <p align="right">
   - Zig Ziglar
