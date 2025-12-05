@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/04/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/05/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Rich people have small TVs and big libraries, and poor people have small libraries and big TVs."</em>  
+  <em>"In order for you to be the BEST you can be for others, first you must be BEST for yourself."</em>  
 </p>
 <p align="right">
-  - Zig Ziglar
+  - Jeffrey Gitomer
 </p>
 
 ---
