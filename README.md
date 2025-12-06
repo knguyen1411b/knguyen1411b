@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/05/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/06/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"In order for you to be the BEST you can be for others, first you must be BEST for yourself."</em>  
+  <em>"What keeps life fascinating is the constant creativity of the soul."</em>  
 </p>
 <p align="right">
-  - Jeffrey Gitomer
+  - Deepak Chopra
 </p>
 
 ---
