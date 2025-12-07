@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/06/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/07/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"What keeps life fascinating is the constant creativity of the soul."</em>  
+  <em>"Instead of worrying about what you cannot control, shift your energy to what you can create."</em>  
 </p>
 <p align="right">
-  - Deepak Chopra
+  - Roy T. Bennett
 </p>
 
 ---
