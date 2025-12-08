@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/07/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/08/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Instead of worrying about what you cannot control, shift your energy to what you can create."</em>  
+  <em>"Life is too important to be taken seriously."</em>  
 </p>
 <p align="right">
-  - Roy T. Bennett
+  - Oscar Wilde
 </p>
 
 ---
