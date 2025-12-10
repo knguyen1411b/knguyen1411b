@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/09/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/10/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"If you're afraid to die, you're afraid to live. You can't have one without the other."</em>  
+  <em>"Don't give up on your dreams, or your dreams will give up on you."</em>  
 </p>
 <p align="right">
-  - Rita Mae Brown
+  - John Wooden
 </p>
 
 ---
