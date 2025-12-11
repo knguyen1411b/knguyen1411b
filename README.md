@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/10/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/11/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Don't give up on your dreams, or your dreams will give up on you."</em>  
+  <em>"Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself."</em>  
 </p>
 <p align="right">
-  - John Wooden
+  - Robert Kiyosaki
 </p>
 
 ---
