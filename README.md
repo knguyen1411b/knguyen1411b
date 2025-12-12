@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/11/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/12/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself."</em>  
+  <em>"Every blessing ignored becomes a curse."</em>  
 </p>
 <p align="right">
-  - Robert Kiyosaki
+  - Paulo Coelho
 </p>
 
 ---
