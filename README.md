@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/12/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/13/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Every blessing ignored becomes a curse."</em>  
+  <em>"There is nothing more truly artistic than to love people."</em>  
 </p>
 <p align="right">
-  - Paulo Coelho
+  - Vincent van Gogh
 </p>
 
 ---
