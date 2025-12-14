@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/13/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/14/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"There is nothing more truly artistic than to love people."</em>  
+  <em>"If you care about someone enough, you'll always be there for them no matter what."</em>  
 </p>
 <p align="right">
-  - Vincent van Gogh
+  - Roy T. Bennett
 </p>
 
 ---
