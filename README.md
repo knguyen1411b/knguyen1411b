@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/14/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/15/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"If you care about someone enough, you'll always be there for them no matter what."</em>  
+  <em>"Whenever people agree with me I always feel I must be wrong."</em>  
 </p>
 <p align="right">
-  - Roy T. Bennett
+  - Oscar Wilde
 </p>
 
 ---
