@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/15/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/16/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Whenever people agree with me I always feel I must be wrong."</em>  
+  <em>"I am not the outcome. I am never the result. I am only the effort."</em>  
 </p>
 <p align="right">
-  - Oscar Wilde
+  - Kamal Ravikant
 </p>
 
 ---
