@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/17/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/18/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"If you practiced for the day, then you have won. If you were lazy for the day, then you have lost."</em>  
+  <em>"When the fish is caught we pay no more attention to the trap."</em>  
 </p>
 <p align="right">
-  - Ming-Dao Deng
+  - Huang Po
 </p>
 
 ---
