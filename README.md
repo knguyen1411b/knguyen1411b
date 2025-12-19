@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/18/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/19/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"When the fish is caught we pay no more attention to the trap."</em>  
+  <em>"It's better to dance than to march through life."</em>  
 </p>
 <p align="right">
-  - Huang Po
+  - Yoko Ono
 </p>
 
 ---
