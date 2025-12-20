@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/19/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/20/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"It's better to dance than to march through life."</em>  
+  <em>"If the happiness and prosperity of other people depend on you, you have nothing to fear anymore."</em>  
 </p>
 <p align="right">
-  - Yoko Ono
+  - Robert Greene
 </p>
 
 ---
