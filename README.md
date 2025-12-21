@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/20/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/21/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"If the happiness and prosperity of other people depend on you, you have nothing to fear anymore."</em>  
+  <em>"I don't pretend to know everything; I just only speak on matters I know I'll win."</em>  
 </p>
 <p align="right">
-  - Robert Greene
+  - Criss Jami
 </p>
 
 ---
