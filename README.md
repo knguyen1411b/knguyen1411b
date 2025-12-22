@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/21/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/22/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"I don't pretend to know everything; I just only speak on matters I know I'll win."</em>  
+  <em>"To be happy we need something to solve. Happiness is therefore a form of action."</em>  
 </p>
 <p align="right">
-  - Criss Jami
+  - Mark Manson
 </p>
 
 ---
