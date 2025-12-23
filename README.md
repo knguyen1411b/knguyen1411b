@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/22/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/23/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"To be happy we need something to solve. Happiness is therefore a form of action."</em>  
+  <em>"We are born from a quiet sleep, and we die to a calm awakening"</em>  
 </p>
 <p align="right">
-  - Mark Manson
+  - Zhuangzi
 </p>
 
 ---
