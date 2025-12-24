@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/23/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/24/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"We are born from a quiet sleep, and we die to a calm awakening"</em>  
+  <em>"How many times do you have to get hit over the head until you figure out who's hitting you?"</em>  
 </p>
 <p align="right">
-  - Zhuangzi
+  - Harry S. Truman
 </p>
 
 ---
