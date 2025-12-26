@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/25/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/26/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"It doesn't matter where you are coming from. All that matters is where you are going. "</em>  
+  <em>"If life were predictable it would cease to be life, and be without flavor."</em>  
 </p>
 <p align="right">
-  - Brian Tracy
+  - Eleanor Roosevelt
 </p>
 
 ---
