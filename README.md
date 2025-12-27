@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/26/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/27/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"If life were predictable it would cease to be life, and be without flavor."</em>  
+  <em>"If you are unable to find the truth right where you are, where else do you expect to find it?"</em>  
 </p>
 <p align="right">
-  - Eleanor Roosevelt
+  - Dogen
 </p>
 
 ---
