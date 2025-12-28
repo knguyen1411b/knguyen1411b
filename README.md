@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/27/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/28/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"If you are unable to find the truth right where you are, where else do you expect to find it?"</em>  
+  <em>"When you make a choice, you change the future."</em>  
 </p>
 <p align="right">
-  - Dogen
+  - Deepak Chopra
 </p>
 
 ---
