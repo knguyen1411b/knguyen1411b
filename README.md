@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/28/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/29/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"When you make a choice, you change the future."</em>  
+  <em>"Remain calm. Be kind."</em>  
 </p>
 <p align="right">
-  - Deepak Chopra
+  - Colin Powell
 </p>
 
 ---
