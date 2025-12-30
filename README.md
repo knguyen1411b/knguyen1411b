@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/29/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/30/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Remain calm. Be kind."</em>  
+  <em>"Any fool can turn a blind eye but who knows what the ostrich sees in the sand."</em>  
 </p>
 <p align="right">
-  - Colin Powell
+  - Samuel Beckett
 </p>
 
 ---
