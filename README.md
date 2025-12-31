@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/30/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/31/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Any fool can turn a blind eye but who knows what the ostrich sees in the sand."</em>  
+  <em>"There are only two ways to live your life. One is as if nothing is a miracle. The other is as if everything is a miracle."</em>  
 </p>
 <p align="right">
-  - Samuel Beckett
+  - Albert Einstein
 </p>
 
 ---
