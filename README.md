@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/31/2025-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/01/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"There are only two ways to live your life. One is as if nothing is a miracle. The other is as if everything is a miracle."</em>  
+  <em>"To live outside the law, you must be honest. "</em>  
 </p>
 <p align="right">
-  - Albert Einstein
+  - Bob Dylan
 </p>
 
 ---
