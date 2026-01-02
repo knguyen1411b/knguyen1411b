@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/01/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/02/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"To live outside the law, you must be honest. "</em>  
+  <em>"Character is destiny."</em>  
 </p>
 <p align="right">
-  - Bob Dylan
+  - Heraclitus
 </p>
 
 ---
