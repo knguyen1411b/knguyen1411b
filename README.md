@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/03/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/04/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"The more you lose yourself in something bigger than yourself, the more energy you will have."</em>  
+  <em>"We are like islands in the sea, separate on the surface but connected in the deep."</em>  
 </p>
 <p align="right">
-  - Norman Vincent Peale
+  - William James
 </p>
 
 ---
