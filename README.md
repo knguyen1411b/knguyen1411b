@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/04/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/05/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"We are like islands in the sea, separate on the surface but connected in the deep."</em>  
+  <em>"The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time."</em>  
 </p>
 <p align="right">
-  - William James
+  - Mark Twain
 </p>
 
 ---
