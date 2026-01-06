@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/05/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/06/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time."</em>  
+  <em>"Perfection is not attainable, but if we chase perfection we can catch excellence."</em>  
 </p>
 <p align="right">
-  - Mark Twain
+  - Vince Lombardi
 </p>
 
 ---
