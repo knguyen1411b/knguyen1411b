@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/06/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/07/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Perfection is not attainable, but if we chase perfection we can catch excellence."</em>  
+  <em>"Have a heart that never hardens, and a temper that never tires, and a touch that never hurts."</em>  
 </p>
 <p align="right">
-  - Vince Lombardi
+  - Charles Dickens
 </p>
 
 ---
