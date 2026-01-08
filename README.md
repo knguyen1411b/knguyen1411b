@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/07/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/08/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Have a heart that never hardens, and a temper that never tires, and a touch that never hurts."</em>  
+  <em>"There can be no deep disappointment where there is not deep love."</em>  
 </p>
 <p align="right">
-  - Charles Dickens
+  - Martin Luther King, Jr.
 </p>
 
 ---
