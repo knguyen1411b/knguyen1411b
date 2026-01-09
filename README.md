@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/08/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/09/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"There can be no deep disappointment where there is not deep love."</em>  
+  <em>"Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives."</em>  
 </p>
 <p align="right">
-  - Martin Luther King, Jr.
+  - Betty White
 </p>
 
 ---
