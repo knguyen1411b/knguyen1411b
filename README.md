@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/09/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/10/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives."</em>  
+  <em>"A man's worth is no greater than his ambitions."</em>  
 </p>
 <p align="right">
-  - Betty White
+  - Marcus Aurelius
 </p>
 
 ---
