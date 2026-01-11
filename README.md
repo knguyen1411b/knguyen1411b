@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/10/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/11/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"A man's worth is no greater than his ambitions."</em>  
+  <em>"To be great is to be misunderstood."</em>  
 </p>
 <p align="right">
-  - Marcus Aurelius
+  - Ralph Waldo Emerson
 </p>
 
 ---
