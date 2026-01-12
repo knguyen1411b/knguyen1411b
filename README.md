@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/11/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/12/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"To be great is to be misunderstood."</em>  
+  <em>"Try not to become a man of success, but rather try to become a man of value."</em>  
 </p>
 <p align="right">
-  - Ralph Waldo Emerson
+  - Albert Einstein
 </p>
 
 ---
