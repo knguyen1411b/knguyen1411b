@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/12/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/13/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Try not to become a man of success, but rather try to become a man of value."</em>  
+  <em>"Decide what your truth is. Then live it."</em>  
 </p>
 <p align="right">
-  - Albert Einstein
+  - Kamal Ravikant
 </p>
 
 ---
