@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/13/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/14/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Decide what your truth is. Then live it."</em>  
+  <em>"There is no absolute success in the world, only constant progress."</em>  
 </p>
 <p align="right">
-  - Kamal Ravikant
+  - Jonathan Swift
 </p>
 
 ---
