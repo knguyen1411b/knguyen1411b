@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/14/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/15/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"There is no absolute success in the world, only constant progress."</em>  
+  <em>"Courage is the price that life exacts for granting peace."</em>  
 </p>
 <p align="right">
-  - Jonathan Swift
+  - Amelia Earhart
 </p>
 
 ---
