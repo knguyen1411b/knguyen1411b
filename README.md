@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/16/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/17/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"In all human affairs there are efforts, and there are results, and the strength of the effort is the measure of the result."</em>  
+  <em>"Silence is a source of great strength."</em>  
 </p>
 <p align="right">
-  - James Allen
+  - Lao Tzu
 </p>
 
 ---
