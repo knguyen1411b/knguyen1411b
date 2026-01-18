@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/17/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/18/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Silence is a source of great strength."</em>  
+  <em>"You may be disappointed if you fail, but you are doomed if you don't try. "</em>  
 </p>
 <p align="right">
-  - Lao Tzu
+  - Beverly Sills
 </p>
 
 ---
