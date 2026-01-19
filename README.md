@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/18/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/19/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"You may be disappointed if you fail, but you are doomed if you don't try. "</em>  
+  <em>"The right thing to do and the hard thing to do are usually the same."</em>  
 </p>
 <p align="right">
-  - Beverly Sills
+  - Steve Maraboli
 </p>
 
 ---
