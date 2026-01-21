@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/20/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/21/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"One reason so few of us achieve what we truly want is that we never direct our focus; we never concentrate our power."</em>  
+  <em>"However difficult life may seem, there is always something you can do and succeed at."</em>  
 </p>
 <p align="right">
-  - Tony Robbins
+  - Stephen Hawking
 </p>
 
 ---
