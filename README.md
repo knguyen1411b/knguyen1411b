@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/21/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/22/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"However difficult life may seem, there is always something you can do and succeed at."</em>  
+  <em>"Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured."</em>  
 </p>
 <p align="right">
-  - Stephen Hawking
+  - Mark Twain
 </p>
 
 ---
