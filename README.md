@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/22/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/23/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured."</em>  
+  <em>"He is richest who is content with the least, for content is the wealth of nature."</em>  
 </p>
 <p align="right">
-  - Mark Twain
+  - Socrates
 </p>
 
 ---
