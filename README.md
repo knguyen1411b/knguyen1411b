@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/23/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/24/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"He is richest who is content with the least, for content is the wealth of nature."</em>  
+  <em>"Do something to move yourself toward your major goal every day."</em>  
 </p>
 <p align="right">
-  - Socrates
+  - Brian Tracy
 </p>
 
 ---
