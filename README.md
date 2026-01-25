@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/24/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/25/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Do something to move yourself toward your major goal every day."</em>  
+  <em>"an action committed in anger is an action doomed to failure. "</em>  
 </p>
 <p align="right">
-  - Brian Tracy
+  - Genghis Khan
 </p>
 
 ---
