@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/25/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/26/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"an action committed in anger is an action doomed to failure. "</em>  
+  <em>"Fear of death is fear of the Unknown."</em>  
 </p>
 <p align="right">
-  - Genghis Khan
+  - Adi Da Samraj
 </p>
 
 ---
