@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/26/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/27/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Fear of death is fear of the Unknown."</em>  
+  <em>"The worst part of success is trying to find someone who is happy for you."</em>  
 </p>
 <p align="right">
-  - Adi Da Samraj
+  - Bette Midler
 </p>
 
 ---
