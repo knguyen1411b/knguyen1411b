@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/27/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/28/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"The worst part of success is trying to find someone who is happy for you."</em>  
+  <em>"Success is not to be pursued, it is to be attracted by the person you become."</em>  
 </p>
 <p align="right">
-  - Bette Midler
+  - Jim Rohn
 </p>
 
 ---
