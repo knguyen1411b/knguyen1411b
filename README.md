@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/28/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/29/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Success is not to be pursued, it is to be attracted by the person you become."</em>  
+  <em>"The successful warrior is the average man, with laser-like focus."</em>  
 </p>
 <p align="right">
-  - Jim Rohn
+  - Bruce Lee
 </p>
 
 ---
