@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/29/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/30/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"The successful warrior is the average man, with laser-like focus."</em>  
+  <em>"Instead of thinking outside the box, get rid of the box."</em>  
 </p>
 <p align="right">
-  - Bruce Lee
+  - Deepak Chopra
 </p>
 
 ---
