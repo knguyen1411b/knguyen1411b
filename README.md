@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/30/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/31/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Instead of thinking outside the box, get rid of the box."</em>  
+  <em>"A wise man can learn more from a foolish question than a fool can learn from a wise answer.  "</em>  
 </p>
 <p align="right">
-  - Deepak Chopra
+  - Bruce Lee
 </p>
 
 ---
