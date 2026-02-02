@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-02/01/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-02/02/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"The more perfect a person is on the outside, the more demons they have on the inside."</em>  
+  <em>"Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight."</em>  
 </p>
 <p align="right">
-  - Sigmund Freud
+  - Benjamin Franklin
 </p>
 
 ---
