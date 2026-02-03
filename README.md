@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-02/02/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-02/03/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight."</em>  
+  <em>"If what you're doing is not your passion, you have nothing to lose."</em>  
 </p>
 <p align="right">
-  - Benjamin Franklin
+  - Celestine Chua
 </p>
 
 ---
