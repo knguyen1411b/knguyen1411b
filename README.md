@@ -20,11 +20,11 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-02/03/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-02/04/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"If what you're doing is not your passion, you have nothing to lose."</em>  
+  <em>"To raise your consciousness, surround yourself with people of higher consciousness."</em>  
 </p>
 <p align="right">
   - Celestine Chua
