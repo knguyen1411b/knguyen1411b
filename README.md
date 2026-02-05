@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-02/04/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-02/05/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"To raise your consciousness, surround yourself with people of higher consciousness."</em>  
+  <em>"Either get busy living or get busy dying."</em>  
 </p>
 <p align="right">
-  - Celestine Chua
+  - Stephen King
 </p>
 
 ---
