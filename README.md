@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-02/06/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-02/07/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Talent is luck. The important thing in life is courage."</em>  
+  <em>"The only defense against the world is a thorough knowledge of it."</em>  
 </p>
 <p align="right">
-  - Woody Allen
+  - John Locke
 </p>
 
 ---
