@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-02/07/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-02/08/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"The only defense against the world is a thorough knowledge of it."</em>  
+  <em>"Those who dream by day are cognizant of many things which escape those who dream only by night."</em>  
 </p>
 <p align="right">
-  - John Locke
+  - Vincent van Gogh
 </p>
 
 ---
