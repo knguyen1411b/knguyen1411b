@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-02/08/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-02/09/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Those who dream by day are cognizant of many things which escape those who dream only by night."</em>  
+  <em>"If you get up one more time than you fall, you will make it through."</em>  
 </p>
 <p align="right">
-  - Vincent van Gogh
+  - Chinese Proverb
 </p>
 
 ---
