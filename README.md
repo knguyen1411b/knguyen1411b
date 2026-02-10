@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-02/09/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-02/10/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"If you get up one more time than you fall, you will make it through."</em>  
+  <em>"Success is often achieved by those who don't know that failure is inevitable."</em>  
 </p>
 <p align="right">
-  - Chinese Proverb
+  - Coco Chanel
 </p>
 
 ---
