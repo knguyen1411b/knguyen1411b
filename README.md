@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-02/10/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-02/11/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Success is often achieved by those who don't know that failure is inevitable."</em>  
+  <em>"Our greatest fears lie in anticipation."</em>  
 </p>
 <p align="right">
-  - Coco Chanel
+  - Honore de Balzac
 </p>
 
 ---
