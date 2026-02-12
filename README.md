@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-02/11/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-02/12/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Our greatest fears lie in anticipation."</em>  
+  <em>"To do great work one must be very idle as well as very industrious."</em>  
 </p>
 <p align="right">
-  - Honore de Balzac
+  - Samuel Butler
 </p>
 
 ---
