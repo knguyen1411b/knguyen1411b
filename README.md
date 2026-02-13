@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-02/12/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-02/13/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"To do great work one must be very idle as well as very industrious."</em>  
+  <em>"Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen."</em>  
 </p>
 <p align="right">
-  - Samuel Butler
+  - Winston Churchill
 </p>
 
 ---
