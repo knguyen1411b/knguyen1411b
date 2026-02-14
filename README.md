@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-02/13/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-02/14/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen."</em>  
+  <em>"The greatest mistake you can make in life is to be continually fearing you will make one."</em>  
 </p>
 <p align="right">
-  - Winston Churchill
+  - Elbert Hubbard
 </p>
 
 ---
