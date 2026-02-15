@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-02/14/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-02/15/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"The greatest mistake you can make in life is to be continually fearing you will make one."</em>  
+  <em>"There is no path to Love. Love is the path."</em>  
 </p>
 <p align="right">
-  - Elbert Hubbard
+  - Dan Millman
 </p>
 
 ---
