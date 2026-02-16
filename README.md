@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-02/15/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-02/16/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"There is no path to Love. Love is the path."</em>  
+  <em>"Don't be pushed around by the fears in your mind. Be led by the dreams in your heart."</em>  
 </p>
 <p align="right">
-  - Dan Millman
+  - Roy T. Bennett
 </p>
 
 ---
