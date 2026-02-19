@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-02/18/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-02/19/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Avoiding failure is to avoid progress."</em>  
+  <em>"The goal of an artist is to create the definitive work that cannot be surpassed."</em>  
 </p>
 <p align="right">
-  - Unknown
+  - George Bernard Shaw
 </p>
 
 ---
