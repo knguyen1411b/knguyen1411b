@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-02/20/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-02/21/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Life is a process. We are a process. The universe is a process."</em>  
+  <em>"Insanity is relative. It depends on who has who locked in what cage.  "</em>  
 </p>
 <p align="right">
-  - Anne Wilson Schaef
+  - Ray Bradbury
 </p>
 
 ---
