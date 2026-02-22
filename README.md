@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-02/21/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-02/22/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Insanity is relative. It depends on who has who locked in what cage.  "</em>  
+  <em>"The act of taking the first step is what separates the winners from the losers."</em>  
 </p>
 <p align="right">
-  - Ray Bradbury
+  - Brian Tracy
 </p>
 
 ---
