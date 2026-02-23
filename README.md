@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-02/22/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-02/23/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"The act of taking the first step is what separates the winners from the losers."</em>  
+  <em>"There is only the one reality, neither to be realized nor attained."</em>  
 </p>
 <p align="right">
-  - Brian Tracy
+  - Huang Po
 </p>
 
 ---
