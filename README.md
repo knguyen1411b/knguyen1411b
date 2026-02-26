@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-02/25/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-02/26/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions."</em>  
+  <em>"In the long run, the sharpest weapon of all is a kind and gentle spirit."</em>  
 </p>
 <p align="right">
-  - Criss Jami
+  - Anne Frank
 </p>
 
 ---
