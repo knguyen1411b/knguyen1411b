@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-02/26/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-02/27/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"In the long run, the sharpest weapon of all is a kind and gentle spirit."</em>  
+  <em>"Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence?"</em>  
 </p>
 <p align="right">
-  - Anne Frank
+  - Sathya Sai Baba
 </p>
 
 ---
