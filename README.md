@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-02/27/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-02/28/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence?"</em>  
+  <em>"Life is too important to be taken seriously."</em>  
 </p>
 <p align="right">
-  - Sathya Sai Baba
+  - Oscar Wilde
 </p>
 
 ---
