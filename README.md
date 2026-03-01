@@ -20,14 +20,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-02/28/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-03/01/2026-blueviolet?style=for-the-badge" alt="Quote of the Day"/>
 </p>
 
 <p align="center">
-  <em>"Life is too important to be taken seriously."</em>  
+  <em>"I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in."</em>  
 </p>
 <p align="right">
-  - Oscar Wilde
+  - Virginia Woolf
 </p>
 
 ---
