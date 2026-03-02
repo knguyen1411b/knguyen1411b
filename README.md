@@ -5,7 +5,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Fullstack+Developer;Passion+for+Code+%26+Creativity"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Fullstack+Developer;Passion+for+Code+%26+Creativity"
     alt="🚀 Fullstack Developer | Passion for Code & Creativity"
   />
 </p>
@@ -14,7 +14,9 @@
   <a href="https://knguyen1411b.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="portfolio" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=knguyen1411b&style=for-the-badge" alt="profile views"/>
+  <a href="https://knguyen1411b.vercel.app/">
+    <img src="https://komarev.com/ghpvc/?username=knguyen1411b&style=for-the-badge" alt="profile views"/>
+  </a>
 </p>
 
 ---
@@ -28,13 +30,6 @@
 </p>
 <p align="right">
   - Dalai Lama
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KNguyen1411b&hide=html,scss,stylus,blade,jupyter%20notebook,vim%20script,css,Batchfile,shell3&theme=tokyonight&show_icons=true&layout=compact" alt="Top Languages" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=knguyen1411b&show_icons=true&hide=issues,contribs&count_private=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
 </p>
 
 ---
