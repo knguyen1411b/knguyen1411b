@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"Happiness is not something ready made. It comes from your own actions."</em>  
+  <em>"All life is a manifestation of the spirit, the manifestation of love."</em>  
 </p>
 <p align="right">
-  - Dalai Lama
+  - Morihei Ueshiba
 </p>
 
 ---
