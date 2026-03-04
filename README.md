@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"All life is a manifestation of the spirit, the manifestation of love."</em>  
+  <em>"Your success and happiness lie in you."</em>  
 </p>
 <p align="right">
-  - Morihei Ueshiba
+  - Helen Keller
 </p>
 
 ---
