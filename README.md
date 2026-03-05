@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"Your success and happiness lie in you."</em>  
+  <em>"The less you open your heart to others, the more your heart suffers."</em>  
 </p>
 <p align="right">
-  - Helen Keller
+  - Deepak Chopra
 </p>
 
 ---
