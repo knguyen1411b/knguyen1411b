@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"The less you open your heart to others, the more your heart suffers."</em>  
+  <em>"The opposite of courage in our society is not cowardice... it is conformity."</em>  
 </p>
 <p align="right">
-  - Deepak Chopra
+  - Earl Nightingale
 </p>
 
 ---
