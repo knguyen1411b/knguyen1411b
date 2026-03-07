@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"The opposite of courage in our society is not cowardice... it is conformity."</em>  
+  <em>"Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want."</em>  
 </p>
 <p align="right">
-  - Earl Nightingale
+  - Tony Robbins
 </p>
 
 ---
