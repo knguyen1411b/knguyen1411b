@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want."</em>  
+  <em>"The sun shines upon good and bad alike."</em>  
 </p>
 <p align="right">
-  - Tony Robbins
+  - Hans Christian Andersen
 </p>
 
 ---
