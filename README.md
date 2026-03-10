@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"No matter who you are, we're creatures of habit. The better your habits are, the better they will be in pressure situations."</em>  
+  <em>"Nothing is impossible. The word itself says 'I'm possible!'"</em>  
 </p>
 <p align="right">
-  - Wayne Gretzky
+  - Audrey Hepburn
 </p>
 
 ---
