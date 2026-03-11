@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"Nothing is impossible. The word itself says 'I'm possible!'"</em>  
+  <em>"Turn the pain into power."</em>  
 </p>
 <p align="right">
-  - Audrey Hepburn
+  - Unknown
 </p>
 
 ---
