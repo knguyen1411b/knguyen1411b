@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"Turn the pain into power."</em>  
+  <em>"All animals except man know that the principal business of life is to enjoy it."</em>  
 </p>
 <p align="right">
-  - Unknown
+  - Samuel Butler
 </p>
 
 ---
