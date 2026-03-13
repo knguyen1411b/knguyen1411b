@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"All animals except man know that the principal business of life is to enjoy it."</em>  
+  <em>"Don't stumble over something that's behind you."</em>  
 </p>
 <p align="right">
-  - Samuel Butler
+  - Steve Harvey
 </p>
 
 ---
