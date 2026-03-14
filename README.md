@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"Don't stumble over something that's behind you."</em>  
+  <em>"Most people dabble their way through life, never deciding to master anything in particular."</em>  
 </p>
 <p align="right">
-  - Steve Harvey
+  - Tony Robbins
 </p>
 
 ---
