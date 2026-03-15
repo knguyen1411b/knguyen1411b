@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"Most people dabble their way through life, never deciding to master anything in particular."</em>  
+  <em>"A bird does not sing because it has an answer. It sings because it has a song."</em>  
 </p>
 <p align="right">
-  - Tony Robbins
+  - Chinese Proverb
 </p>
 
 ---
