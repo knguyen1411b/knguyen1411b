@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"A bird does not sing because it has an answer. It sings because it has a song."</em>  
+  <em>"The secret of perfect health lies in keeping the mind always cheerful - never worried, never hurried, never borne down by any fear, thought or anxiety."</em>  
 </p>
 <p align="right">
-  - Chinese Proverb
+  - Sathya Sai Baba
 </p>
 
 ---
