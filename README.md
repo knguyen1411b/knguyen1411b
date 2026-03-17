@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"The secret of perfect health lies in keeping the mind always cheerful - never worried, never hurried, never borne down by any fear, thought or anxiety."</em>  
+  <em>"I admire those who do good and expect nothing in return."</em>  
 </p>
 <p align="right">
-  - Sathya Sai Baba
+  - Roy T. Bennett
 </p>
 
 ---
