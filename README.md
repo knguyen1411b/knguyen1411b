@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"I admire those who do good and expect nothing in return."</em>  
+  <em>"Your problem isn't the problem. Your reaction is the problem."</em>  
 </p>
 <p align="right">
-  - Roy T. Bennett
+  - Unknown
 </p>
 
 ---
