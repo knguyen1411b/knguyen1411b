@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"Your problem isn't the problem. Your reaction is the problem."</em>  
+  <em>"To plant a garden is to believe in tomorrow.  "</em>  
 </p>
 <p align="right">
-  - Unknown
+  - Audrey Hepburn
 </p>
 
 ---
