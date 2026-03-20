@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"To plant a garden is to believe in tomorrow.  "</em>  
+  <em>"You have to keep breaking your heart until it opens."</em>  
 </p>
 <p align="right">
-  - Audrey Hepburn
+  - Rumi
 </p>
 
 ---
