@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"You have to keep breaking your heart until it opens."</em>  
+  <em>"No duty is more urgent than that of returning thanks."</em>  
 </p>
 <p align="right">
-  - Rumi
+  - James Allen
 </p>
 
 ---
