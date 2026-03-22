@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"No duty is more urgent than that of returning thanks."</em>  
+  <em>"Don't let the fear of losing be greater than the excitement of winning."</em>  
 </p>
 <p align="right">
-  - James Allen
+  - Robert Kiyosaki
 </p>
 
 ---
