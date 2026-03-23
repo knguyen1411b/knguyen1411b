@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"Don't let the fear of losing be greater than the excitement of winning."</em>  
+  <em>"When we allow negative messages to fester in our head, they take on a life of their own."</em>  
 </p>
 <p align="right">
-  - Robert Kiyosaki
+  - Lolly Daskal
 </p>
 
 ---
