@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"When we allow negative messages to fester in our head, they take on a life of their own."</em>  
+  <em>"Deliberately seek the company of people who influence you to think and act on building the life you desire."</em>  
 </p>
 <p align="right">
-  - Lolly Daskal
+  - Napoleon Hill
 </p>
 
 ---
