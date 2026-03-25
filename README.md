@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"Deliberately seek the company of people who influence you to think and act on building the life you desire."</em>  
+  <em>"We learn to walk by falling down. If we never fell down, we would never walk."</em>  
 </p>
 <p align="right">
-  - Napoleon Hill
+  - Robert Kiyosaki
 </p>
 
 ---
