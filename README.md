@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"We learn to walk by falling down. If we never fell down, we would never walk."</em>  
+  <em>"Failure is not fatal, but failure to change might be."</em>  
 </p>
 <p align="right">
-  - Robert Kiyosaki
+  - John Wooden
 </p>
 
 ---
