@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"Failure is not fatal, but failure to change might be."</em>  
+  <em>"I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars."</em>  
 </p>
 <p align="right">
-  - John Wooden
+  - Og Mandino
 </p>
 
 ---
