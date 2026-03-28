@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars."</em>  
+  <em>"The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time."</em>  
 </p>
 <p align="right">
-  - Og Mandino
+  - Mark Twain
 </p>
 
 ---
