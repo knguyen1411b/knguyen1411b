@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time."</em>  
+  <em>"A Hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles."</em>  
 </p>
 <p align="right">
-  - Mark Twain
+  - Christopher Reeve
 </p>
 
 ---
