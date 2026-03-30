@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"A Hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles."</em>  
+  <em>"Don't let the noise of others' opinions drown out your own inner voice."</em>  
 </p>
 <p align="right">
-  - Christopher Reeve
+  - Steve Jobs
 </p>
 
 ---
