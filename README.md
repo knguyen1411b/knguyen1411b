@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"Don't let the noise of others' opinions drown out your own inner voice."</em>  
+  <em>"Most of the important things in the world have been accompanied by people who have kept on trying when there seemed to be no hope at all."</em>  
 </p>
 <p align="right">
-  - Steve Jobs
+  - Dale Carnegie
 </p>
 
 ---
