@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"Most of the important things in the world have been accompanied by people who have kept on trying when there seemed to be no hope at all."</em>  
+  <em>"A wise man will be master of his mind, a fool will be its slave."</em>  
 </p>
 <p align="right">
-  - Dale Carnegie
+  - Publilius Syrus
 </p>
 
 ---
