@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"A wise man will be master of his mind, a fool will be its slave."</em>  
+  <em>"If you want things to be different, perhaps the answer is to become different yourself."</em>  
 </p>
 <p align="right">
-  - Publilius Syrus
+  - Norman Vincent Peale
 </p>
 
 ---
