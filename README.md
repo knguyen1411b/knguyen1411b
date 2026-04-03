@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"If you want things to be different, perhaps the answer is to become different yourself."</em>  
+  <em>"Go confidently in the direction of your dreams! Live the life you've imagined."</em>  
 </p>
 <p align="right">
-  - Norman Vincent Peale
+  - Henry David Thoreau
 </p>
 
 ---
