@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"Go confidently in the direction of your dreams! Live the life you've imagined."</em>  
+  <em>"If you're afraid - don't do it, - if you're doing it - don't be afraid! "</em>  
 </p>
 <p align="right">
-  - Henry David Thoreau
+  - Genghis Khan
 </p>
 
 ---
