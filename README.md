@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"If you're afraid - don't do it, - if you're doing it - don't be afraid! "</em>  
+  <em>"You need to be doing fewer things for more effect instead of doing more things with side effects."</em>  
 </p>
 <p align="right">
-  - Genghis Khan
+  - Gary Keller
 </p>
 
 ---
