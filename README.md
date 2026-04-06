@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"You need to be doing fewer things for more effect instead of doing more things with side effects."</em>  
+  <em>"There are as many opinions as there are experts."</em>  
 </p>
 <p align="right">
-  - Gary Keller
+  - Franklin D. Roosevelt
 </p>
 
 ---
