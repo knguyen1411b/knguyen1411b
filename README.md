@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"There are as many opinions as there are experts."</em>  
+  <em>"It's OK to have your eggs in one basket as long as you control what happens to that basket."</em>  
 </p>
 <p align="right">
-  - Franklin D. Roosevelt
+  - Elon Musk
 </p>
 
 ---
