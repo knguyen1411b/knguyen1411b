@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"It's OK to have your eggs in one basket as long as you control what happens to that basket."</em>  
+  <em>"Never settle for the crumbs of life."</em>  
 </p>
 <p align="right">
-  - Elon Musk
+  - Og Mandino
 </p>
 
 ---
