@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"Never settle for the crumbs of life."</em>  
+  <em>"Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives."</em>  
 </p>
 <p align="right">
-  - Og Mandino
+  - Betty White
 </p>
 
 ---
