@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives."</em>  
+  <em>"The number one cause of failure is the fear of failure."</em>  
 </p>
 <p align="right">
-  - Betty White
+  - Steve Harvey
 </p>
 
 ---
