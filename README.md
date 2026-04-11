@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"The number one cause of failure is the fear of failure."</em>  
+  <em>"Judge a man by his questions rather than his answers."</em>  
 </p>
 <p align="right">
-  - Steve Harvey
+  - Voltaire
 </p>
 
 ---
