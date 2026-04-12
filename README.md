@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"Judge a man by his questions rather than his answers."</em>  
+  <em>"When we strive to become better than we are, everything around us becomes better, too."</em>  
 </p>
 <p align="right">
-  - Voltaire
+  - Paulo Coelho
 </p>
 
 ---
