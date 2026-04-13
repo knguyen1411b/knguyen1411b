@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"When we strive to become better than we are, everything around us becomes better, too."</em>  
+  <em>"Life is love and love is life."</em>  
 </p>
 <p align="right">
-  - Paulo Coelho
+  - Elvis Presley
 </p>
 
 ---
