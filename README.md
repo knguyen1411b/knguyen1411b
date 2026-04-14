@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"Life is love and love is life."</em>  
+  <em>"Life must be a constant education; one must learn everything, from speaking to dying."</em>  
 </p>
 <p align="right">
-  - Elvis Presley
+  - Gustave Flaubert
 </p>
 
 ---
