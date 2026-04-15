@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"Life must be a constant education; one must learn everything, from speaking to dying."</em>  
+  <em>"When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic. "</em>  
 </p>
 <p align="right">
-  - Gustave Flaubert
+  - Charles Swindoll
 </p>
 
 ---
