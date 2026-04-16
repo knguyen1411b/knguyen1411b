@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic. "</em>  
+  <em>"Give out what you most want to come back."</em>  
 </p>
 <p align="right">
-  - Charles Swindoll
+  - Robin Sharma
 </p>
 
 ---
