@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"Give out what you most want to come back."</em>  
+  <em>"Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams."</em>  
 </p>
 <p align="right">
-  - Robin Sharma
+  - Robert Greene
 </p>
 
 ---
