@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams."</em>  
+  <em>"I don't walk away from things that I think are unfinished."</em>  
 </p>
 <p align="right">
-  - Robert Greene
+  - Arnold Schwarzenegger
 </p>
 
 ---
