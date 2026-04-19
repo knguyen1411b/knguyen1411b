@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"I don't walk away from things that I think are unfinished."</em>  
+  <em>"If we have no peace, it is because we have forgotten that we belong to each other."</em>  
 </p>
 <p align="right">
-  - Arnold Schwarzenegger
+  - Mother Teresa
 </p>
 
 ---
