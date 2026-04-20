@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"If we have no peace, it is because we have forgotten that we belong to each other."</em>  
+  <em>"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. "</em>  
 </p>
 <p align="right">
-  - Mother Teresa
+  - Steve Jobs
 </p>
 
 ---
