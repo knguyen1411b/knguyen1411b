@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. "</em>  
+  <em>"You become a worrier by practicing worry. You become free of worry by practicing the opposite."</em>  
 </p>
 <p align="right">
-  - Steve Jobs
+  - Norman Vincent Peale
 </p>
 
 ---
