@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"You become a worrier by practicing worry. You become free of worry by practicing the opposite."</em>  
+  <em>"Happiness must be grown in one's own garden."</em>  
 </p>
 <p align="right">
-  - Norman Vincent Peale
+  - Mary Engelbreit
 </p>
 
 ---
