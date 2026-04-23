@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"Happiness must be grown in one's own garden."</em>  
+  <em>"Every day passes whether you participate or not."</em>  
 </p>
 <p align="right">
-  - Mary Engelbreit
+  - Ming-Dao Deng
 </p>
 
 ---
