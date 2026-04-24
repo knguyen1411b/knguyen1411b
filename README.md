@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"Every day passes whether you participate or not."</em>  
+  <em>"Do something to move yourself toward your major goal every day."</em>  
 </p>
 <p align="right">
-  - Ming-Dao Deng
+  - Brian Tracy
 </p>
 
 ---
