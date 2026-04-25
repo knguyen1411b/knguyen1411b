@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"Do something to move yourself toward your major goal every day."</em>  
+  <em>"Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat."</em>  
 </p>
 <p align="right">
-  - Brian Tracy
+  - Sun Tzu
 </p>
 
 ---
