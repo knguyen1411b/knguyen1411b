@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat."</em>  
+  <em>"Give a girl the right shoes, and she can conquer the world."</em>  
 </p>
 <p align="right">
-  - Sun Tzu
+  - Bette Midler
 </p>
 
 ---
