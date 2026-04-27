@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"Give a girl the right shoes, and she can conquer the world."</em>  
+  <em>"The joy of life comes from our encounters with new experiences."</em>  
 </p>
 <p align="right">
-  - Bette Midler
+  - Christopher McCandless
 </p>
 
 ---
