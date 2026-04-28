@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"The joy of life comes from our encounters with new experiences."</em>  
+  <em>"You make your own luck if you stay at it long enough."</em>  
 </p>
 <p align="right">
-  - Christopher McCandless
+  - Naval Ravikant
 </p>
 
 ---
