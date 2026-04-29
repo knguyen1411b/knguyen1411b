@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"You make your own luck if you stay at it long enough."</em>  
+  <em>"Concentrated power has always been the enemy of liberty."</em>  
 </p>
 <p align="right">
-  - Naval Ravikant
+  - Ronald Reagan
 </p>
 
 ---
