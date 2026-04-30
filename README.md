@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"Concentrated power has always been the enemy of liberty."</em>  
+  <em>"Life was meant to be lived, and curiosity must be kept alive. One must never, for whatever reason, turn his back on life."</em>  
 </p>
 <p align="right">
-  - Ronald Reagan
+  - Eleanor Roosevelt
 </p>
 
 ---
