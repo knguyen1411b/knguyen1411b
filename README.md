@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"Do every act of your life as if it were your last."</em>  
+  <em>"It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on."</em>  
 </p>
 <p align="right">
-  - Marcus Aurelius
+  - Steve Maraboli
 </p>
 
 ---
