@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on."</em>  
+  <em>"Smile, breathe and go slowly."</em>  
 </p>
 <p align="right">
-  - Steve Maraboli
+  - Thich Nhat Hanh
 </p>
 
 ---
