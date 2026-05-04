@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"Smile, breathe and go slowly."</em>  
+  <em>"Fools resist. The wise embrace."</em>  
 </p>
 <p align="right">
-  - Thich Nhat Hanh
+  - Maxime Lagace
 </p>
 
 ---
