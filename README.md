@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"Fools resist. The wise embrace."</em>  
+  <em>"Be royal in your own fashion: act like a king to be treated like one."</em>  
 </p>
 <p align="right">
-  - Maxime Lagace
+  - Robert Greene
 </p>
 
 ---
