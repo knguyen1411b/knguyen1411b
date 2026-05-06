@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"Be royal in your own fashion: act like a king to be treated like one."</em>  
+  <em>"If you find you are not valued and appreciated, then shift your attention to places where you will be valued and appreciated."</em>  
 </p>
 <p align="right">
-  - Robert Greene
+  - Celestine Chua
 </p>
 
 ---
