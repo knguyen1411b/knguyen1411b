@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"If you find you are not valued and appreciated, then shift your attention to places where you will be valued and appreciated."</em>  
+  <em>"All animals except man know that the principal business of life is to enjoy it."</em>  
 </p>
 <p align="right">
-  - Celestine Chua
+  - Samuel Butler
 </p>
 
 ---
