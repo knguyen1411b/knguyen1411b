@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"All animals except man know that the principal business of life is to enjoy it."</em>  
+  <em>"Knowing your own darkness is the best method for dealing with the darknesses of other people."</em>  
 </p>
 <p align="right">
-  - Samuel Butler
+  - Carl Jung
 </p>
 
 ---
