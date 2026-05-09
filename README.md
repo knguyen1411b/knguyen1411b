@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"Knowing your own darkness is the best method for dealing with the darknesses of other people."</em>  
+  <em>"We make a living by what we get, but we make a life by what we give."</em>  
 </p>
 <p align="right">
-  - Carl Jung
+  - Unknown
 </p>
 
 ---
