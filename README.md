@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"We make a living by what we get, but we make a life by what we give."</em>  
+  <em>"He who hesitates is a damned fool."</em>  
 </p>
 <p align="right">
-  - Unknown
+  - Mae West
 </p>
 
 ---
