@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"He who hesitates is a damned fool."</em>  
+  <em>"Human beings can alter their lives by altering their attitudes of mind."</em>  
 </p>
 <p align="right">
-  - Mae West
+  - William James
 </p>
 
 ---
