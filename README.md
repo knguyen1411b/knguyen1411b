@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"Human beings can alter their lives by altering their attitudes of mind."</em>  
+  <em>"We cannot always do great things in life, but we can do small things with great love."</em>  
 </p>
 <p align="right">
-  - William James
+  - Dan Millman
 </p>
 
 ---
