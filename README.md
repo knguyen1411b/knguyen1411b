@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"We cannot always do great things in life, but we can do small things with great love."</em>  
+  <em>"No matter what happens, always be yourself."</em>  
 </p>
 <p align="right">
-  - Dan Millman
+  - Dale Carnegie
 </p>
 
 ---
