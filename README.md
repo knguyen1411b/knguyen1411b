@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <em>"No matter what happens, always be yourself."</em>  
+  <em>"It all depends on what you choose to believe."</em>  
 </p>
 <p align="right">
-  - Dale Carnegie
+  - Spencer Johnson
 </p>
 
 ---
