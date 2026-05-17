@@ -114,10 +114,10 @@ Developer Experience
   <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-17/05/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
 </p>
 
-> _"We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies."_
+> _"Why live an ordinary life, when you can live an extraordinary one."_
 
 <p align="right">
-  <sub>- Emily Dickinson</sub>
+  <sub>- Tony Robbins</sub>
 </p>
 
 ---
