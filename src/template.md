@@ -41,7 +41,7 @@
 - Strong interest in clean architecture, accessibility, and system performance.
 - I enjoy building products that are simple to use and easy to extend.
 - Currently improving code quality, naming, and engineering practices.
-- Today focus: **Planning and architecture**
+- Today focus: **{{TODAY_FOCUS}}**
 
 ---
 
@@ -111,13 +111,13 @@ Developer Experience
 ## Quote Of The Day
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-17/05/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-{{DATE}}-2ea44f?style=flat-square" alt="Quote of the Day" />
 </p>
 
-> _"We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies."_
+> _"{{QUOTE}}"_
 
 <p align="right">
-  <sub>- Emily Dickinson</sub>
+  <sub>- {{AUTHOR}}</sub>
 </p>
 
 ---
@@ -133,5 +133,5 @@ Developer Experience
 </p>
 
 <p align="center">
-  <sub>Last updated (UTC+7): <code>17/05/2026</code></sub>
+  <sub>Last updated (UTC+7): <code>{{UPDATED_AT}}</code></sub>
 </p>

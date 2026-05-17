@@ -1,11 +1,14 @@
 {
-  "name": "my-profile-github",
+  "name": "knguyen1411b-profile-github",
   "version": "1.0.0",
-  "main": "init.js",
   "scripts": {
-    "generate": "node Private/init.js"
+    "generate": "node --import tsx src/init.ts"
   },
   "dependencies": {
-    "axios": "^1.7.4"
+    "axios": "^1.7.4",
+    "tsx": "^4.20.6"
+  },
+  "devDependencies": {
+    "@types/node": "^25.8.0"
   }
 }
