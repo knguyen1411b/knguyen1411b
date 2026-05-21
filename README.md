@@ -41,7 +41,7 @@
 - Strong interest in clean architecture, accessibility, and system performance.
 - I enjoy building products that are simple to use and easy to extend.
 - Currently improving code quality, naming, and engineering practices.
-- Today focus: **Backend reliability**
+- Today focus: **Performance tuning**
 
 ---
 
@@ -111,13 +111,13 @@ Developer Experience
 ## Quote Of The Day
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-20/05/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-21/05/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
 </p>
 
-> _"The more you lose yourself in something bigger than yourself, the more energy you will have."_
+> _"The season of failure is the best time for sowing the seeds of success. "_
 
 <p align="right">
-  <sub>- Norman Vincent Peale</sub>
+  <sub>- Paramahansa Yogananda</sub>
 </p>
 
 ---
@@ -133,5 +133,5 @@ Developer Experience
 </p>
 
 <p align="center">
-  <sub>Last updated (UTC+7): <code>20/05/2026</code></sub>
+  <sub>Last updated (UTC+7): <code>21/05/2026</code></sub>
 </p>
