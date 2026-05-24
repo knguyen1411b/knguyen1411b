@@ -41,7 +41,7 @@
 - Strong interest in clean architecture, accessibility, and system performance.
 - I enjoy building products that are simple to use and easy to extend.
 - Currently improving code quality, naming, and engineering practices.
-- Today focus: **Learning and experimentation**
+- Today focus: **Planning and architecture**
 
 ---
 
@@ -111,13 +111,13 @@ Developer Experience
 ## Quote Of The Day
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-23/05/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-24/05/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
 </p>
 
-> _"It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose."_
+> _"A single act of kindness throws out roots in all directions, and the roots spring up and make new trees."_
 
 <p align="right">
-  <sub>- Ming-Dao Deng</sub>
+  <sub>- Amelia Earhart</sub>
 </p>
 
 ---
@@ -133,5 +133,5 @@ Developer Experience
 </p>
 
 <p align="center">
-  <sub>Last updated (UTC+7): <code>23/05/2026</code></sub>
+  <sub>Last updated (UTC+7): <code>24/05/2026</code></sub>
 </p>
