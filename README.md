@@ -41,7 +41,7 @@
 - Strong interest in clean architecture, accessibility, and system performance.
 - I enjoy building products that are simple to use and easy to extend.
 - Currently improving code quality, naming, and engineering practices.
-- Today focus: **Performance tuning**
+- Today focus: **Testing and edge cases**
 
 ---
 
@@ -111,13 +111,13 @@ Developer Experience
 ## Quote Of The Day
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-11/06/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/06/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
 </p>
 
-> _"By changing nothing, nothing changes."_
+> _"Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime."_
 
 <p align="right">
-  <sub>- Celestine Chua</sub>
+  <sub>- Lao Tzu</sub>
 </p>
 
 ---
@@ -133,5 +133,5 @@ Developer Experience
 </p>
 
 <p align="center">
-  <sub>Last updated (UTC+7): <code>11/06/2026</code></sub>
+  <sub>Last updated (UTC+7): <code>12/06/2026</code></sub>
 </p>
