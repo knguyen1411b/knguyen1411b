@@ -41,7 +41,7 @@
 - Strong interest in clean architecture, accessibility, and system performance.
 - I enjoy building products that are simple to use and easy to extend.
 - Currently improving code quality, naming, and engineering practices.
-- Today focus: **Testing and edge cases**
+- Today focus: **Learning and experimentation**
 
 ---
 
@@ -111,13 +111,13 @@ Developer Experience
 ## Quote Of The Day
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/06/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-13/06/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
 </p>
 
-> _"Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime."_
+> _"Having an open mind is one of the most important qualities we can possess. Once our minds close, we stop evolving."_
 
 <p align="right">
-  <sub>- Lao Tzu</sub>
+  <sub>- Yanni</sub>
 </p>
 
 ---
@@ -133,5 +133,5 @@ Developer Experience
 </p>
 
 <p align="center">
-  <sub>Last updated (UTC+7): <code>12/06/2026</code></sub>
+  <sub>Last updated (UTC+7): <code>13/06/2026</code></sub>
 </p>
