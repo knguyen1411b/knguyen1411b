@@ -41,7 +41,7 @@
 - Strong interest in clean architecture, accessibility, and system performance.
 - I enjoy building products that are simple to use and easy to extend.
 - Currently improving code quality, naming, and engineering practices.
-- Today focus: **Testing and edge cases**
+- Today focus: **Learning and experimentation**
 
 ---
 
@@ -111,13 +111,13 @@ Developer Experience
 ## Quote Of The Day
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-26/06/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-27/06/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
 </p>
 
-> _"If a thing is worth doing, it is worth doing badly."_
+> _"Laziness may appear attractive, but work gives satisfaction."_
 
 <p align="right">
-  <sub>- Gilbert Chesterton</sub>
+  <sub>- Anne Frank</sub>
 </p>
 
 ---
@@ -133,5 +133,5 @@ Developer Experience
 </p>
 
 <p align="center">
-  <sub>Last updated (UTC+7): <code>26/06/2026</code></sub>
+  <sub>Last updated (UTC+7): <code>27/06/2026</code></sub>
 </p>
