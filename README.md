@@ -41,7 +41,7 @@
 - Strong interest in clean architecture, accessibility, and system performance.
 - I enjoy building products that are simple to use and easy to extend.
 - Currently improving code quality, naming, and engineering practices.
-- Today focus: **Clean code and naming**
+- Today focus: **Frontend polish and UX**
 
 ---
 
@@ -111,13 +111,13 @@ Developer Experience
 ## Quote Of The Day
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-29/06/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-30/06/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
 </p>
 
-> _"No man can get rich himself unless he enriches others."_
+> _"By failing to prepare, you are preparing to fail."_
 
 <p align="right">
-  <sub>- Earl Nightingale</sub>
+  <sub>- Benjamin Franklin</sub>
 </p>
 
 ---
@@ -133,5 +133,5 @@ Developer Experience
 </p>
 
 <p align="center">
-  <sub>Last updated (UTC+7): <code>29/06/2026</code></sub>
+  <sub>Last updated (UTC+7): <code>30/06/2026</code></sub>
 </p>
