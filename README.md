@@ -41,7 +41,7 @@
 - Strong interest in clean architecture, accessibility, and system performance.
 - I enjoy building products that are simple to use and easy to extend.
 - Currently improving code quality, naming, and engineering practices.
-- Today focus: **Backend reliability**
+- Today focus: **Performance tuning**
 
 ---
 
@@ -111,13 +111,13 @@ Developer Experience
 ## Quote Of The Day
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/07/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-02/07/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
 </p>
 
-> _"Many of life's failures are people who did not realize how close they were to success when they gave up."_
+> _"There is no such thing as a great talent without great willpower."_
 
 <p align="right">
-  <sub>- Thomas Edison</sub>
+  <sub>- Honore de Balzac</sub>
 </p>
 
 ---
@@ -133,5 +133,5 @@ Developer Experience
 </p>
 
 <p align="center">
-  <sub>Last updated (UTC+7): <code>01/07/2026</code></sub>
+  <sub>Last updated (UTC+7): <code>02/07/2026</code></sub>
 </p>
