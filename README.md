@@ -41,7 +41,7 @@
 - Strong interest in clean architecture, accessibility, and system performance.
 - I enjoy building products that are simple to use and easy to extend.
 - Currently improving code quality, naming, and engineering practices.
-- Today focus: **Planning and architecture**
+- Today focus: **Clean code and naming**
 
 ---
 
@@ -111,13 +111,13 @@ Developer Experience
 ## Quote Of The Day
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-05/07/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-06/07/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
 </p>
 
-> _"You were born to win, but to be a winner you must plan to win, prepare to win, and expect to win."_
+> _"Everyone sees what you appear to be, few experience what you really are."_
 
 <p align="right">
-  <sub>- Zig Ziglar</sub>
+  <sub>- Niccolo Machiavelli</sub>
 </p>
 
 ---
@@ -133,5 +133,5 @@ Developer Experience
 </p>
 
 <p align="center">
-  <sub>Last updated (UTC+7): <code>05/07/2026</code></sub>
+  <sub>Last updated (UTC+7): <code>06/07/2026</code></sub>
 </p>
