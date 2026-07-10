@@ -41,7 +41,7 @@
 - Strong interest in clean architecture, accessibility, and system performance.
 - I enjoy building products that are simple to use and easy to extend.
 - Currently improving code quality, naming, and engineering practices.
-- Today focus: **Performance tuning**
+- Today focus: **Testing and edge cases**
 
 ---
 
@@ -111,13 +111,13 @@ Developer Experience
 ## Quote Of The Day
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-09/07/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-10/07/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
 </p>
 
-> _"If you get up one more time than you fall, you will make it through."_
+> _"A hut full of laughter is richer than a palace full of sadness."_
 
 <p align="right">
-  <sub>- Chinese Proverb</sub>
+  <sub>- Zen Proverb</sub>
 </p>
 
 ---
@@ -133,5 +133,5 @@ Developer Experience
 </p>
 
 <p align="center">
-  <sub>Last updated (UTC+7): <code>09/07/2026</code></sub>
+  <sub>Last updated (UTC+7): <code>10/07/2026</code></sub>
 </p>
