@@ -41,7 +41,7 @@
 - Strong interest in clean architecture, accessibility, and system performance.
 - I enjoy building products that are simple to use and easy to extend.
 - Currently improving code quality, naming, and engineering practices.
-- Today focus: **Frontend polish and UX**
+- Today focus: **Backend reliability**
 
 ---
 
@@ -111,13 +111,13 @@ Developer Experience
 ## Quote Of The Day
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-14/07/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-15/07/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
 </p>
 
-> _"Be the change that you want to see in the world."_
+> _"Respect other people's feelings. It might mean nothing to you, but it could mean everything to them."_
 
 <p align="right">
-  <sub>- Mahatma Gandhi</sub>
+  <sub>- Roy T. Bennett</sub>
 </p>
 
 ---
@@ -133,5 +133,5 @@ Developer Experience
 </p>
 
 <p align="center">
-  <sub>Last updated (UTC+7): <code>14/07/2026</code></sub>
+  <sub>Last updated (UTC+7): <code>15/07/2026</code></sub>
 </p>
