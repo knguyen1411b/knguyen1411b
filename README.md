@@ -41,7 +41,7 @@
 - Strong interest in clean architecture, accessibility, and system performance.
 - I enjoy building products that are simple to use and easy to extend.
 - Currently improving code quality, naming, and engineering practices.
-- Today focus: **Planning and architecture**
+- Today focus: **Clean code and naming**
 
 ---
 
@@ -111,13 +111,13 @@ Developer Experience
 ## Quote Of The Day
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-19/07/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-20/07/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
 </p>
 
-> _"It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends."_
+> _"Trust in dreams, for in them is the hidden gate to eternity."_
 
 <p align="right">
-  <sub>- Albus Dumbledore</sub>
+  <sub>- Kahlil Gibran</sub>
 </p>
 
 ---
@@ -133,5 +133,5 @@ Developer Experience
 </p>
 
 <p align="center">
-  <sub>Last updated (UTC+7): <code>19/07/2026</code></sub>
+  <sub>Last updated (UTC+7): <code>20/07/2026</code></sub>
 </p>
