@@ -41,7 +41,7 @@
 - Strong interest in clean architecture, accessibility, and system performance.
 - I enjoy building products that are simple to use and easy to extend.
 - Currently improving code quality, naming, and engineering practices.
-- Today focus: **Learning and experimentation**
+- Today focus: **Planning and architecture**
 
 ---
 
@@ -111,13 +111,13 @@ Developer Experience
 ## Quote Of The Day
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/08/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-02/08/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
 </p>
 
-> _"Act as if what you do makes a difference. It does."_
+> _"The world would go on even without you. Don't take yourself so seriously."_
 
 <p align="right">
-  <sub>- William James</sub>
+  <sub>- Norman Vincent Peale</sub>
 </p>
 
 ---
@@ -133,5 +133,5 @@ Developer Experience
 </p>
 
 <p align="center">
-  <sub>Last updated (UTC+7): <code>01/08/2026</code></sub>
+  <sub>Last updated (UTC+7): <code>02/08/2026</code></sub>
 </p>
