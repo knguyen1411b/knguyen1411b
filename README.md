@@ -41,7 +41,7 @@
 - Strong interest in clean architecture, accessibility, and system performance.
 - I enjoy building products that are simple to use and easy to extend.
 - Currently improving code quality, naming, and engineering practices.
-- Today focus: **Backend reliability**
+- Today focus: **Performance tuning**
 
 ---
 
@@ -111,13 +111,13 @@ Developer Experience
 ## Quote Of The Day
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-05/08/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-06/08/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
 </p>
 
-> _"There is always room in your life for thinking bigger, pushing limits and imagining the impossible."_
+> _"When you want something in life, you just gotta reach out and grab it."_
 
 <p align="right">
-  <sub>- Tony Robbins</sub>
+  <sub>- Christopher McCandless</sub>
 </p>
 
 ---
@@ -133,5 +133,5 @@ Developer Experience
 </p>
 
 <p align="center">
-  <sub>Last updated (UTC+7): <code>05/08/2026</code></sub>
+  <sub>Last updated (UTC+7): <code>06/08/2026</code></sub>
 </p>
