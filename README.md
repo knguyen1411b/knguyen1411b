@@ -114,10 +114,10 @@ Developer Experience
   <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-27/08/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
 </p>
 
-> _"The chief enemy of creativity is good sense."_
+> _"Do not allow your inner doubts to keep you from achieving what you can do."_
 
 <p align="right">
-  <sub>- Pablo Picasso</sub>
+  <sub>- Lolly Daskal</sub>
 </p>
 
 ---
