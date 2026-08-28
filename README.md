@@ -41,7 +41,7 @@
 - Strong interest in clean architecture, accessibility, and system performance.
 - I enjoy building products that are simple to use and easy to extend.
 - Currently improving code quality, naming, and engineering practices.
-- Today focus: **Performance tuning**
+- Today focus: **Testing and edge cases**
 
 ---
 
@@ -111,13 +111,13 @@ Developer Experience
 ## Quote Of The Day
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-27/08/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-28/08/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
 </p>
 
-> _"Do not allow your inner doubts to keep you from achieving what you can do."_
+> _"Truth is not something outside to be discovered, it is something inside to be realized."_
 
 <p align="right">
-  <sub>- Lolly Daskal</sub>
+  <sub>- Osho</sub>
 </p>
 
 ---
@@ -133,5 +133,5 @@ Developer Experience
 </p>
 
 <p align="center">
-  <sub>Last updated (UTC+7): <code>27/08/2026</code></sub>
+  <sub>Last updated (UTC+7): <code>28/08/2026</code></sub>
 </p>
