@@ -41,7 +41,7 @@
 - Strong interest in clean architecture, accessibility, and system performance.
 - I enjoy building products that are simple to use and easy to extend.
 - Currently improving code quality, naming, and engineering practices.
-- Today focus: **Planning and architecture**
+- Today focus: **Clean code and naming**
 
 ---
 
@@ -111,13 +111,13 @@ Developer Experience
 ## Quote Of The Day
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-30/08/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-31/08/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
 </p>
 
-> _"Be brave. Take risks. Nothing can substitute experience."_
+> _"To forget the whole world is easy; to make the whole world forget you is hard."_
 
 <p align="right">
-  <sub>- Paulo Coelho</sub>
+  <sub>- Zhuangzi</sub>
 </p>
 
 ---
@@ -133,5 +133,5 @@ Developer Experience
 </p>
 
 <p align="center">
-  <sub>Last updated (UTC+7): <code>30/08/2026</code></sub>
+  <sub>Last updated (UTC+7): <code>31/08/2026</code></sub>
 </p>
