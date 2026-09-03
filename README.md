@@ -41,7 +41,7 @@
 - Strong interest in clean architecture, accessibility, and system performance.
 - I enjoy building products that are simple to use and easy to extend.
 - Currently improving code quality, naming, and engineering practices.
-- Today focus: **Backend reliability**
+- Today focus: **Performance tuning**
 
 ---
 
@@ -111,13 +111,13 @@ Developer Experience
 ## Quote Of The Day
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-02/09/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-03/09/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
 </p>
 
-> _"The grass is greener where you water it."_
+> _"To achieve, you need thought. You have to know what you are doing and that's real power."_
 
 <p align="right">
-  <sub>- Neil Barringham</sub>
+  <sub>- Ayn Rand</sub>
 </p>
 
 ---
@@ -133,5 +133,5 @@ Developer Experience
 </p>
 
 <p align="center">
-  <sub>Last updated (UTC+7): <code>02/09/2026</code></sub>
+  <sub>Last updated (UTC+7): <code>03/09/2026</code></sub>
 </p>
