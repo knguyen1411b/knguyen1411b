@@ -1,5 +1,5 @@
 <h1 align="center">
-  💞️ Hi, I’m <a href="https://knguyen1411b.vercel.app/">Khánh Nguyên</a>
+  💞️ Hi, I’m <a href="https://ndknguyen.io.vn">Khánh Nguyên</a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://knguyen1411b.vercel.app">
+  <a href="https://ndknguyen.io.vn">
     <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 
