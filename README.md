@@ -41,7 +41,7 @@
 - Strong interest in clean architecture, accessibility, and system performance.
 - I enjoy building products that are simple to use and easy to extend.
 - Currently improving code quality, naming, and engineering practices.
-- Today focus: **Planning and architecture**
+- Today focus: **Clean code and naming**
 
 ---
 
@@ -111,13 +111,13 @@ Developer Experience
 ## Quote Of The Day
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-20/09/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-21/09/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
 </p>
 
-> _"Every time we liberate a woman, we liberate a man."_
+> _"Fear does not have any special power unless you empower it by submitting to it."_
 
 <p align="right">
-  <sub>- Margaret Mead</sub>
+  <sub>- Les Brown</sub>
 </p>
 
 ---
@@ -133,5 +133,5 @@ Developer Experience
 </p>
 
 <p align="center">
-  <sub>Last updated (UTC+7): <code>20/09/2026</code></sub>
+  <sub>Last updated (UTC+7): <code>21/09/2026</code></sub>
 </p>
