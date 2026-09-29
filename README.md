@@ -41,7 +41,7 @@
 - Strong interest in clean architecture, accessibility, and system performance.
 - I enjoy building products that are simple to use and easy to extend.
 - Currently improving code quality, naming, and engineering practices.
-- Today focus: **Clean code and naming**
+- Today focus: **Frontend polish and UX**
 
 ---
 
@@ -111,13 +111,13 @@ Developer Experience
 ## Quote Of The Day
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-28/09/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-29/09/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
 </p>
 
-> _"Throughout this life, you can never be certain of living long enough to take another breath."_
+> _"It's easy to be a critic, but being a doer requires effort, risk, and change."_
 
 <p align="right">
-  <sub>- Huang Po</sub>
+  <sub>- Wayne Dyer</sub>
 </p>
 
 ---
@@ -133,5 +133,5 @@ Developer Experience
 </p>
 
 <p align="center">
-  <sub>Last updated (UTC+7): <code>28/09/2026</code></sub>
+  <sub>Last updated (UTC+7): <code>29/09/2026</code></sub>
 </p>
