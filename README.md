@@ -99,10 +99,10 @@
   <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-11/10/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
 </p>
 
-> _"Perplexity is the beginning of knowledge."_
+> _"My powers are ordinary. Only my application brings me success."_
 
 <p align="right">
-  <sub>- Kahlil Gibran</sub>
+  <sub>- Isaac Newton</sub>
 </p>
 
 ---
