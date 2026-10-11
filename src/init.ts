@@ -24,35 +24,6 @@ const getDateInUtc7 = (): string => {
   }).format(new Date());
 };
 
-const getTodayFocus = (): string => {
-  const focusByDay = [
-    "Planning and architecture",
-    "Clean code and naming",
-    "Frontend polish and UX",
-    "Backend reliability",
-    "Performance tuning",
-    "Testing and edge cases",
-    "Learning and experimentation",
-  ];
-
-  const day = new Date().toLocaleDateString("en-US", {
-    timeZone: "Asia/Ho_Chi_Minh",
-    weekday: "short",
-  });
-
-  const map: Record<string, number> = {
-    Sun: 0,
-    Mon: 1,
-    Tue: 2,
-    Wed: 3,
-    Thu: 4,
-    Fri: 5,
-    Sat: 6,
-  };
-
-  return focusByDay[map[day] ?? 0];
-};
-
 const getQuote = async (): Promise<QuoteResult> => {
   try {
     const { data } = await axios.get<QuoteApiItem[]>(BASE_URL, {
@@ -76,7 +47,6 @@ const getQuote = async (): Promise<QuoteResult> => {
 const generate = async (): Promise<void> => {
   const { quote, author } = await getQuote();
   const updatedAt = getDateInUtc7();
-  const todayFocus = getTodayFocus();
 
   let readmeContent = fs.readFileSync("src/template.md", "utf-8");
 
@@ -84,8 +54,7 @@ const generate = async (): Promise<void> => {
     .replace(/{{DATE}}/g, updatedAt)
     .replace(/{{QUOTE}}/g, quote)
     .replace(/{{AUTHOR}}/g, author)
-    .replace(/{{UPDATED_AT}}/g, updatedAt)
-    .replace(/{{TODAY_FOCUS}}/g, todayFocus);
+    .replace(/{{UPDATED_AT}}/g, updatedAt);
 
   fs.writeFileSync("README.md", readmeContent);
 

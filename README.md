@@ -4,11 +4,11 @@
 </h1>
 
 <p align="center">
-  Fullstack Developer • Building scalable web applications with clean architecture
+  Fullstack Developer • Turning ideas into thoughtful web experiences
 </p>
 
 <p align="center">
-  Focused on performance, accessibility, maintainable systems, and modern UI/UX.
+  Building fast, accessible applications with clean code and intuitive design.
 </p>
 
 <p align="center">
@@ -35,89 +35,74 @@
 
 ---
 
-## About Me
-
-- Fullstack developer focused on scalable and maintainable web applications.
-- Strong interest in clean architecture, accessibility, and system performance.
-- I enjoy building products that are simple to use and easy to extend.
-- Currently improving code quality, naming, and engineering practices.
-- Today focus: **Learning and experimentation**
-
----
-
 ## Tech Stack
 
-### Frontend
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,materialui,vite" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,express,spring,postgres,mysql,docker,git" alt="React, Next.js, TypeScript, Tailwind CSS, Node.js, Express, Spring Boot, PostgreSQL, MySQL, Docker, Git" />
 </p>
-
-### Backend
-
-<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,spring,fastapi" /> </p>
-
-### Database
-
-<p align="left"> <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma" /> </p>
-
-### Tools
-
-<p align="left"> <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,figma" /> </p>
 
 ---
 
 ## Featured Projects
 
-### IELTSVTED Website (DHTE)
-
-Web-based IELTS mock test platform designed for realistic exam practice and smooth user experience.
-
-**Tech Stack:** Next.js, TypeScript, Tailwind CSS, Material UI
-
----
-
-### SPIT Club Management System
-
-Research project for managing programming support club operations, members, and activities.
-
-**Tech Stack:** Spring Boot, Spring Security, JWT, Next.js, TypeScript, MySQL, Docker
-
----
-
-### School Management System
-
-_(Nguyen Dinh Chieu Specialized School)_
-
-Online school management platform built for academic management and digital classroom workflows.
-
-**Tech Stack:** Next.js, TypeScript, Express.js, MySQL, Prisma
-
----
-
-## Engineering Focus
-
-```txt
-Clean Code
-Accessibility
-Performance Optimization
-Scalable Architecture
-Modern UI/UX
-Developer Experience
-```
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <img src="src/public/portfolio.png" alt="Portfolio preview" width="100%" />
+      <h3>Portfolio</h3>
+      <p>A personal website introducing my background, experience, and projects.</p>
+      <p><a href="https://ndknguyen.io.vn">Website</a></p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="src/public/blog.png" alt="Personal Blog preview" width="100%" />
+      <h3>Personal Blog</h3>
+      <p>A personal blog sharing programming knowledge, tools, and development experiences.</p>
+      <p><a href="https://blog.ndknguyen.io.vn">Website</a></p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="src/public/access-read.png" alt="AccessRead preview" width="100%" />
+      <h3>AccessRead</h3>
+      <p>Read, summarize, listen to, and ask questions about documents.</p>
+      <p><strong>2nd Prize — WCAG 2.2 Website Design Competition</strong></p>
+      <p><a href="https://access-read.vercel.app">Website</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <img src="src/public/huefestival.png" alt="Hue Festival preview" width="100%" />
+      <h3>Hue Festival</h3>
+      <p>Discover Hue Festival through local arts, cuisine, crafts, and landmarks.</p>
+      <p><strong>1st Prize — SPIT Frontend 2025</strong></p>
+      <p><a href="https://huefestival.vercel.app">Website</a></p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="src/public/ithusc30.png" alt="IT HUSC — 30th Anniversary preview" width="100%" />
+      <h3>IT HUSC — 30th Anniversary</h3>
+      <p>A landing page celebrating the 30th anniversary of IT HUSC.</p>
+      <p><strong>1st Prize — IT HUSC 30th Anniversary Landing Page Competition</strong></p>
+      <p><a href="https://ithusc30.vercel.app">Website</a></p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="src/public/ietls-dhte.png" alt="IELTSVTED (DHTE) preview" width="100%" />
+      <h3>IELTSVTED (DHTE)</h3>
+      <p>An online platform for IELTS preparation and practice tests.</p>
+      <p><a href="https://dhte.org">Website</a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Quote Of The Day
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-10/10/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-11/10/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
 </p>
 
-> _"Logic is like the sword - those who appeal to it shall perish by it."_
+> _"Perplexity is the beginning of knowledge."_
 
 <p align="right">
-  <sub>- Samuel Butler</sub>
+  <sub>- Kahlil Gibran</sub>
 </p>
 
 ---
@@ -133,5 +118,5 @@ Developer Experience
 </p>
 
 <p align="center">
-  <sub>Last updated (UTC+7): <code>10/10/2026</code></sub>
+  <sub>Last updated (UTC+7): <code>11/10/2026</code></sub>
 </p>
