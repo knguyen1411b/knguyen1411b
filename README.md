@@ -96,13 +96,13 @@
 ## Quote Of The Day
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-11/10/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/10/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
 </p>
 
-> _"My powers are ordinary. Only my application brings me success."_
+> _"A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road."_
 
 <p align="right">
-  <sub>- Isaac Newton</sub>
+  <sub>- Henry Ward Beecher</sub>
 </p>
 
 ---
@@ -118,5 +118,5 @@
 </p>
 
 <p align="center">
-  <sub>Last updated (UTC+7): <code>11/10/2026</code></sub>
+  <sub>Last updated (UTC+7): <code>12/10/2026</code></sub>
 </p>
