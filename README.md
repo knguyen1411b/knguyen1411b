@@ -96,13 +96,13 @@
 ## Quote Of The Day
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-12/10/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-13/10/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
 </p>
 
-> _"A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road."_
+> _"The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened."_
 
 <p align="right">
-  <sub>- Henry Ward Beecher</sub>
+  <sub>- Kamal Ravikant</sub>
 </p>
 
 ---
@@ -118,5 +118,5 @@
 </p>
 
 <p align="center">
-  <sub>Last updated (UTC+7): <code>12/10/2026</code></sub>
+  <sub>Last updated (UTC+7): <code>13/10/2026</code></sub>
 </p>
