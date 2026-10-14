@@ -96,13 +96,13 @@
 ## Quote Of The Day
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-13/10/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-14/10/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
 </p>
 
-> _"The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened."_
+> _"The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work."_
 
 <p align="right">
-  <sub>- Kamal Ravikant</sub>
+  <sub>- Oprah Winfrey</sub>
 </p>
 
 ---
@@ -118,5 +118,5 @@
 </p>
 
 <p align="center">
-  <sub>Last updated (UTC+7): <code>13/10/2026</code></sub>
+  <sub>Last updated (UTC+7): <code>14/10/2026</code></sub>
 </p>
