@@ -96,13 +96,13 @@
 ## Quote Of The Day
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-14/10/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-15/10/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
 </p>
 
-> _"The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work."_
+> _"The first principle of success is desire."_
 
 <p align="right">
-  <sub>- Oprah Winfrey</sub>
+  <sub>- Robert Collier</sub>
 </p>
 
 ---
@@ -118,5 +118,5 @@
 </p>
 
 <p align="center">
-  <sub>Last updated (UTC+7): <code>14/10/2026</code></sub>
+  <sub>Last updated (UTC+7): <code>15/10/2026</code></sub>
 </p>
