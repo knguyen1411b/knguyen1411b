@@ -96,13 +96,13 @@
 ## Quote Of The Day
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-15/10/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-16/10/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
 </p>
 
-> _"The first principle of success is desire."_
+> _"Prefer to be defeated in the presence of the wise than to excel among fools."_
 
 <p align="right">
-  <sub>- Robert Collier</sub>
+  <sub>- Dogen</sub>
 </p>
 
 ---
@@ -118,5 +118,5 @@
 </p>
 
 <p align="center">
-  <sub>Last updated (UTC+7): <code>15/10/2026</code></sub>
+  <sub>Last updated (UTC+7): <code>16/10/2026</code></sub>
 </p>
