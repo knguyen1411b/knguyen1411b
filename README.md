@@ -96,13 +96,13 @@
 ## Quote Of The Day
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-17/10/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-18/10/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
 </p>
 
-> _"It is often safer to be in chains than to be free."_
+> _"The only limit to our realization of tomorrow will be our doubts of today."_
 
 <p align="right">
-  <sub>- Franz Kafka</sub>
+  <sub>- Colin R. Davis</sub>
 </p>
 
 ---
@@ -118,5 +118,5 @@
 </p>
 
 <p align="center">
-  <sub>Last updated (UTC+7): <code>17/10/2026</code></sub>
+  <sub>Last updated (UTC+7): <code>18/10/2026</code></sub>
 </p>
