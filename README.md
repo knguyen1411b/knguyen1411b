@@ -96,13 +96,13 @@
 ## Quote Of The Day
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-18/10/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-19/10/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
 </p>
 
-> _"The only limit to our realization of tomorrow will be our doubts of today."_
+> _"Facts are the enemy of truth."_
 
 <p align="right">
-  <sub>- Colin R. Davis</sub>
+  <sub>- Miguel de Cervantes</sub>
 </p>
 
 ---
@@ -118,5 +118,5 @@
 </p>
 
 <p align="center">
-  <sub>Last updated (UTC+7): <code>18/10/2026</code></sub>
+  <sub>Last updated (UTC+7): <code>19/10/2026</code></sub>
 </p>
