@@ -96,13 +96,13 @@
 ## Quote Of The Day
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-19/10/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-20/10/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
 </p>
 
-> _"Facts are the enemy of truth."_
+> _"Repetition does not transform a lie into a truth."_
 
 <p align="right">
-  <sub>- Miguel de Cervantes</sub>
+  <sub>- Franklin D. Roosevelt</sub>
 </p>
 
 ---
@@ -118,5 +118,5 @@
 </p>
 
 <p align="center">
-  <sub>Last updated (UTC+7): <code>19/10/2026</code></sub>
+  <sub>Last updated (UTC+7): <code>20/10/2026</code></sub>
 </p>
