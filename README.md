@@ -96,13 +96,13 @@
 ## Quote Of The Day
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-20/10/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-21/10/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
 </p>
 
-> _"Repetition does not transform a lie into a truth."_
+> _"If fear is too strong, the genius is suppressed."_
 
 <p align="right">
-  <sub>- Franklin D. Roosevelt</sub>
+  <sub>- Robert Kiyosaki</sub>
 </p>
 
 ---
@@ -118,5 +118,5 @@
 </p>
 
 <p align="center">
-  <sub>Last updated (UTC+7): <code>20/10/2026</code></sub>
+  <sub>Last updated (UTC+7): <code>21/10/2026</code></sub>
 </p>
