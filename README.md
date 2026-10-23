@@ -96,13 +96,13 @@
 ## Quote Of The Day
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-22/10/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-23/10/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
 </p>
 
-> _"It all depends on what you choose to believe."_
+> _"The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails."_
 
 <p align="right">
-  <sub>- Spencer Johnson</sub>
+  <sub>- Colin R. Davis</sub>
 </p>
 
 ---
@@ -118,5 +118,5 @@
 </p>
 
 <p align="center">
-  <sub>Last updated (UTC+7): <code>22/10/2026</code></sub>
+  <sub>Last updated (UTC+7): <code>23/10/2026</code></sub>
 </p>
