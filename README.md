@@ -96,13 +96,13 @@
 ## Quote Of The Day
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-24/10/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-25/10/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
 </p>
 
-> _"A fear of weakness only strengthens weakness."_
+> _"So we beat on, boats against the current, borne back ceaselessly into the past."_
 
 <p align="right">
-  <sub>- Criss Jami</sub>
+  <sub>- F. Scott Fitzgerald</sub>
 </p>
 
 ---
@@ -118,5 +118,5 @@
 </p>
 
 <p align="center">
-  <sub>Last updated (UTC+7): <code>24/10/2026</code></sub>
+  <sub>Last updated (UTC+7): <code>25/10/2026</code></sub>
 </p>
