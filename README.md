@@ -96,13 +96,13 @@
 ## Quote Of The Day
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-25/10/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-26/10/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
 </p>
 
-> _"So we beat on, boats against the current, borne back ceaselessly into the past."_
+> _"To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh."_
 
 <p align="right">
-  <sub>- F. Scott Fitzgerald</sub>
+  <sub>- Pema Chodron</sub>
 </p>
 
 ---
@@ -118,5 +118,5 @@
 </p>
 
 <p align="center">
-  <sub>Last updated (UTC+7): <code>25/10/2026</code></sub>
+  <sub>Last updated (UTC+7): <code>26/10/2026</code></sub>
 </p>
