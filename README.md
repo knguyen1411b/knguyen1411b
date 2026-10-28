@@ -96,13 +96,13 @@
 ## Quote Of The Day
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-27/10/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-28/10/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
 </p>
 
-> _"It is better to fail in originality than to succeed in imitation."_
+> _"Life is a balance of holding on and letting go."_
 
 <p align="right">
-  <sub>- Herman Melville</sub>
+  <sub>- Rumi</sub>
 </p>
 
 ---
@@ -118,5 +118,5 @@
 </p>
 
 <p align="center">
-  <sub>Last updated (UTC+7): <code>27/10/2026</code></sub>
+  <sub>Last updated (UTC+7): <code>28/10/2026</code></sub>
 </p>
