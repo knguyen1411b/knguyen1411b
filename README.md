@@ -96,13 +96,13 @@
 ## Quote Of The Day
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-29/10/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-30/10/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
 </p>
 
-> _"Life and death are of supreme importance. Time swiftly passes by and opportunity is lost."_
+> _"Anyone who reads a book with a sense of obligation does not understand the art of reading."_
 
 <p align="right">
-  <sub>- Dogen</sub>
+  <sub>- Lin Yutang</sub>
 </p>
 
 ---
@@ -118,5 +118,5 @@
 </p>
 
 <p align="center">
-  <sub>Last updated (UTC+7): <code>29/10/2026</code></sub>
+  <sub>Last updated (UTC+7): <code>30/10/2026</code></sub>
 </p>
