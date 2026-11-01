@@ -96,13 +96,13 @@
 ## Quote Of The Day
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-31/10/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/11/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
 </p>
 
-> _"The fewer the words, the better the prayer."_
+> _"The more reasons you have for achieving your goal, the more determined you will become."_
 
 <p align="right">
-  <sub>- Martin Luther</sub>
+  <sub>- Brian Tracy</sub>
 </p>
 
 ---
@@ -118,5 +118,5 @@
 </p>
 
 <p align="center">
-  <sub>Last updated (UTC+7): <code>31/10/2026</code></sub>
+  <sub>Last updated (UTC+7): <code>01/11/2026</code></sub>
 </p>
