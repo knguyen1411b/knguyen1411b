@@ -96,13 +96,13 @@
 ## Quote Of The Day
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-01/11/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
+  <img src="https://img.shields.io/badge/💡_Quote_of_the_Day-02/11/2026-2ea44f?style=flat-square" alt="Quote of the Day" />
 </p>
 
-> _"The more reasons you have for achieving your goal, the more determined you will become."_
+> _"Some of the greater things in life are unseen; that's why you close your eyes when you kiss, cry, or dream."_
 
 <p align="right">
-  <sub>- Brian Tracy</sub>
+  <sub>- Unknown</sub>
 </p>
 
 ---
@@ -118,5 +118,5 @@
 </p>
 
 <p align="center">
-  <sub>Last updated (UTC+7): <code>01/11/2026</code></sub>
+  <sub>Last updated (UTC+7): <code>02/11/2026</code></sub>
 </p>
