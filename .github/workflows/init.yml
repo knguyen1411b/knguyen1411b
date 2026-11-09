@@ -5,32 +5,33 @@ on:
   schedule:
     - cron: "0 0 * * *"
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+        uses: actions/checkout@v4
 
       - name: Setup Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
-          node-version: 18
+          node-version: 22
+          cache: npm
 
-      - run: npm i --package-lock-only
-      - run: npm install
-      - run: npm ci
+      - name: Install dependencies
+        run: npm ci
 
       - name: Generate quote
         run: npm run generate
 
       - name: Update README.md
         run: |
-          git config --global user.email "knguyen1411b@gmail.com"
-          git config --global user.name "knguyen1411b"
+          git config user.email "knguyen1411b@gmail.com"
+          git config user.name "knguyen1411b"
           git add README.md
-          git commit -m "docs: add instructions in README.md" || echo "No changes to commit"
+          git commit -m "docs: update README.md" || echo "No changes to commit"
           git push origin master
